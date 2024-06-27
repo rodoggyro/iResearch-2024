@@ -21,4 +21,4 @@ With the rise of NLP technologies in our everyday lives like ChatGPT from OpenAI
 
 ### Question 5 - How do computers "understand" language?
 
-Computers never truly understand language in the same way that humans do but they are able to make connections between words using probability. Even before a model is used, it is fed word embeddings which is a vector for each word that allows the computer to know the similarities between it and other words in the word embeddings set. When a prompt or input is given to the model, it is tokenized and broken down into sentences, prases, and words. In the case of a masking model where a word would be removed and the model would need to fill in the blank, the model would take the n-previous words and using its word embeddings, fill in the blank.
+
