@@ -1,0 +1,49 @@
+airport: LKPR (Praha Ruzyne)
+channel: Tower
+frequency: 134.560MHz
+UTC time: 2020-10-26 14:39:55
+coordinates: 50.1028697N, 14.2623153E
+manual: https://aim.rlp.cz/vfrmanual/actual/lkpr_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_voc.jpg
+hs: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_hs.jpg
+pdc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_pdc.jpg
+waypoints nearby: AKEVA ARVEG BAGRU BAROX BAVIN BEKVI ELMEK ELPON ERASU EVEMI KENOK KUVIX LETNA RATEV RISUK SOMIS SULOV TIPRU UTORO
+callsigns nearby:
+DLH8HT : Lufthansa Eight Hotel Tango
+OKALY : Okayjet Lima Yankee
+RYR92BQ : Ryan Air Nine Two Bravo Quebec
+OKWUR38 :  Oscar Kilo Whiskey Uniform Romeo Three Eight
+TVS432P : Sky Travel Four Three Two Papa
+FWWZZ :  Foxtrot Whiskey Whiskey Zulu Zulu
+OKWUS13 :  Oscar Kilo Whiskey Uniform Sierra One Three
+TUI3PC : Tuifly Three Papa Charlie
+2MRGT :  Two Mike Romeo Golf Tango
+AUA2JP : Austrian Airlines Two Juliett Papa
+ELJ501 : Topjet Five Zero One
+RYR6TN : Ryan Air Six Tango November
+AFR10BE : Air France One Zero Bravo Echo
+OKHHH :  Oscar Kilo Hotel Hotel Hotel
+K01 :  Kilo Zero One
+SAS9135 : Scandinavian Nine One Three Five
+WZZ554 : Wizzair Five Five Four
+SWR165V : Swiss One Six Five Victor
+QTR2HR : Qatari Two Hotel Romeo
+AFR108Z : Air France One Zero Eight Zulu
+RYR41QH : Ryan Air Four One Quebec Hotel
+RYR65Y : Ryan Air Six Five Yankee
+OKZWC73 :  Oscar Kilo Zulu Whiskey Charlie Seven Three
+WZZ92 : Wizzair Nine Two
+SXS7D : Sunexpress Seven Delta
+OKKEA :  Oscar Kilo Kilo Echo Alfa
+GAC404K : Dream Team Four Zero Four Kilo
+RYR9FD : Ryan Air Nine Foxtrot Delta
+DFC85T : Dark Blue Eight Five Tango
+OKPRM : Okapi Romeo Mike
+THY5XV : Turkish Five X-ray Victor
+RYR8332 : Ryan Air Eight Three Three Two
+ROT362M : Tarom Three Six Two Mike
+QTR8194 : Qatari Eight One Nine Four
+AZG5501 : Silk West Five Five Zero One
+
+

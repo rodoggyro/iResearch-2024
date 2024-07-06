@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0.36</start>
+		<end>5.33</end>
+		<speaker>B</speaker>
+		<speaker_label>HXQ</speaker_label>
+		<text>and Sion Tower the Hotel X-ray Quebec we just continue toward the Grande Dixence</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>6.51</start>
+		<end>9.27</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO Sion Tower</speaker_label>
+		<text>Hotel X-ray Quebec roger frequency change approved talk to you later</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

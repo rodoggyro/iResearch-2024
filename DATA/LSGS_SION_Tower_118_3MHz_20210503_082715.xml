@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0.05</start>
+		<end>5.4</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO tower</speaker_label>
+		<text>[#callsign]Hotel[/#callsign] [#callsign]Charlie[/#callsign] [#callsign]Juliett[/#callsign] [#unnamed]you[/#unnamed] [#unnamed]passed[/#unnamed] [#unnamed]echo[/#unnamed] [#unnamed]two[/#unnamed] [#command]continue[/#command] [#value]for[/#value] [#value]direct[/#value] [#value]approach[/#value] [#value]as[/#value] [#value]number[/#value] [#value]one[/#value] [#command]report[/#command] [#value]final[/#value] [#value]two[/#value] [#value]five[/#value]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>6.06</start>
+		<end>9.07</end>
+		<speaker>D</speaker>
+		<speaker_label>UNK-1</speaker_label>
+		<text>[#value]next[/#value] [#value]final[/#value] [#value]two[/#value] [#value]five[/#value] [#callsign]Hotel[/#callsign] [#callsign]Charlie[/#callsign] [#callsign]Juliett[/#callsign]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

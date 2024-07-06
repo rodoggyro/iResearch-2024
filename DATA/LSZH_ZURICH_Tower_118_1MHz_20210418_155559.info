@@ -1,0 +1,147 @@
+airport: LSZH (Zurich)
+channel: Tower
+frequency: 118.1MHz
+UTC time: 2021-04-18 15:55:59
+coordinates: 47.464722N, 8.549167E
+manual: https://www.ivao.ch/charts-2/
+waypoints nearby: AFOLT AGERI AKABI ALBIX ALINE AMIKI AMRUP ARGAX ARGEV ARTAG ATBAS BARIG BERSU BREGO DEGES DITON DONET DOPIL EDUMI EGABI EKRIT EKTUM ELMUR ENONO ENUSO ERMUS GARMO GERSA GIPOL IBILA KELIP KESEX KOLUL KUDIS KUSIX LAMAX LAPAG LAPDI LEDMI LUMEG MANEG MANID MATIV MILNI MOMOL MOSIT NEDOV NEMAG NOLKA OBEDU OLKEV OLNAV OMIDO OSNEM OSNOG RAMEM RAUTA RILAX RINLI RIPUS RISLI ROLSA ROMIR RONBA RONIX RUDSI SITOR SONGI SONOM SUBEX SUREP TADOB TINOX TITIX UMTOP URIGI URNAS UTIXO VEBIT VEDOK VIBAX VIBEV XANAL
+callsigns nearby:
+9HEAA : Nine Hotel Echo Alpha Alpha 
+9HSKI : Nine Hotel Sierra Kilo India 
+AEE852 : Aegean Eight Five Two 
+AEE853 : Aegean Eight Five Three 
+AHO448V : Air Hamburg Four Four Eight Victor 
+ALT008 : Aerlineas Centrales Zero Zero Eight 
+AMQ3Z : Amex Three Zulu 
+ANE78JM : Air Nostrum Seven Eight Juliett Mike 
+ANE87WB : Air Nostrum Eight Seven Whiskey Bravo 
+ATL779 : Centralmex Seven Seven Nine 
+ATL780 : Centralmex Seven Eight Zero 
+AUA4UK : Austrian Four Uniform Kilo 
+AUA5BL : Austrian Five Bravo Lima 
+AUA5NA : Austrian Five November Alpha 
+AXY1707 : Legend One Seven Zero Seven 
+AXY1803 : Legend One Eight Zero Three 
+CTN464 : Croatia Four Six Four 
+DCSEB : Twin Star Echo Bravo 
+DINEZ : Aerodin Echo Zulu 
+EDW229F : Edelweiss Two Two Nine Foxtrot 
+EDW23F : Edelweiss Two Three Foxtrot 
+EDW25 : Edelweiss Two Five 
+EDW266N : Edelweiss Two Six Six November 
+EDW28Y : Edelweiss Two Eight Yankee 
+EDW67 : Edelweiss Six Seven 
+EWG14KD : Eurowings One Four Kilo Delta 
+EWG4FU : Eurowings Four Foxtrot Uniform 
+EZS73CP : Topswiss Seven Three Charlie Papa 
+FIN5DL : Finnair Five Delta Lima 
+FIN6KP : Finnair Six Kilo Papa 
+FLORI103 : Flycom Romeo India One Zero Three 
+FLORI238 : Flycom Romeo India Two Three Eight 
+FLORI517 : Flycom Romeo India Five One Seven 
+FLORI568 : Flycom Romeo India Five Six Eight 
+FLORIAN1 : Flycom Romeo India Alpha November One 
+FLORIAN3 : Flycom Romeo India Alpha November Three 
+FLORIAN4 : Flycom Romeo India Alpha November Four 
+FLORIAN5 : Flycom Romeo India Alpha November Five 
+FLORIAN7 : Flycom Romeo India Alpha November Seven 
+FLORIAN9 : Flycom Romeo India Alpha November Nine 
+GSW602 : Arrow Jet Six Zero Two 
+GUIDO7 : Golf Uniform India Delta Oscar Seven 
+GUSTI2 : Guja Tango India Two 
+HB2368 : Hotel Bravo Two Three Six Eight 
+HB3387 : Hotel Bravo Three Three Eight Seven 
+HBCIA : Halisa India Alpha 
+HBCXN : Halisa X-ray November 
+HBJES : Hotel Bravo Juliett Echo Sierra 
+HBJLS : Hotel Bravo Juliett Lima Sierra 
+HBKMX : Hotel Bravo Kilo Mike X-ray 
+HBTLA : Habicht Lima Alpha 
+HBVPL : Hotel Bravo Victor Papa Lima 
+HBYMJ : Hotel Bravo Yankee Mike Juliett 
+HBYTB : Hotel Bravo Yankee Tango Bravo 
+IFA6106 : Red Angel Six One Zero Six 
+KAL567 : Koreanair Five Six Seven 
+KAL568 : Koreanair Five Six Eight 
+KLM21W : KLM Two One Whiskey 
+KLM56L : KLM Five Six Lima 
+LOT419 : lot Four One Nine 
+LOT420 : lot Four Two Zero 
+LXG22H : Luxor Golf Two Two Hotel 
+LZB310 : Flying Bulgaria Three One Zero 
+MLWCW : Mike Lima Whiskey Charlie Whiskey 
+N46PL : November Four Six Papa Lima 
+N597DX : November Five Nine Seven Delta X-ray 
+NJE218Y : Fraction Two One Eight Yankee 
+NJE569D : Fraction Five Six Nine Delta 
+ORION1 : Oscar Romeo India Oscar November One 
+QTR004 : Qatari Zero Zero Four 
+QTR6HM : Qatari Six Hotel Mike 
+RGA01 : Royal Ghana Zero One 
+RGA03 : Royal Ghana Zero Three 
+RTT1 : Romeo Tango Tango One 
+RTT7 : Romeo Tango Tango Seven 
+SAS609 : Scandinavian Six Zero Nine 
+SAS89B : Scandinavian Eight Nine Bravo 
+SVA216 : Saudia Two One Six 
+SVW01GX : Silver Arrows Zero One Golf X-ray 
+SWR : Swiss 
+SWR101X : Swiss One Zero One X-ray 
+SWR1076 : Swiss One Zero Seven Six 
+SWR107C : Swiss One Zero Seven Charlie 
+SWR112E : Swiss One One Two Echo 
+SWR113F : Swiss One One Three Foxtrot 
+SWR115Z : Swiss One One Five Zulu 
+SWR1229 : Swiss One Two Two Nine 
+SWR126Q : Swiss One Two Six Quebec 
+SWR129L : Swiss One Two Nine Lima 
+SWR141B : Swiss One Four One Bravo 
+SWR144F : Swiss One Four Four Foxtrot 
+SWR145K : Swiss One Four Five Kilo 
+SWR157W : Swiss One Five Seven Whiskey 
+SWR164J : Swiss One Six Four Juliett 
+SWR1675 : Swiss One Six Seven Five 
+SWR18 : Swiss One Eight 
+SWR1889 : Swiss One Eight Eight Nine 
+SWR19N : Swiss One Nine November 
+SWR208N : Swiss Two Zero Eight November 
+SWR213D : Swiss Two One Three Delta 
+SWR217C : Swiss Two One Seven Charlie 
+SWR218R : Swiss Two One Eight Romeo 
+SWR2291 : Swiss Two Two Nine One 
+SWR22L : Swiss Two Two Lima 
+SWR283W : Swiss Two Eight Three Whiskey 
+SWR287A : Swiss Two Eight Seven Alpha 
+SWR29E : Swiss Two Nine Echo 
+SWR3 : Swiss Three 
+SWR30K : Swiss Three Zero Kilo 
+SWR339 : Swiss Three Three Nine 
+SWR339N : Swiss Three Three Nine November 
+SWR36A : Swiss Three Six Alpha 
+SWR39 : Swiss Three Nine 
+SWR47HA : Swiss Four Seven Hotel Alpha 
+SWR56N : Swiss Five Six November 
+SWR59GW : Swiss Five Nine Golf Whiskey 
+SWR73VK : Swiss Seven Three Victor Kilo 
+SWR78P : Swiss Seven Eight Papa 
+SWR96C : Swiss Nine Six Charlie 
+SWR97L : Swiss Nine Seven Lima 
+SXS3 : Sunexpress Three 
+SXS3ZF : Sunexpress Three Zulu Foxtrot 
+SXS6LZ : Sunexpress Six Lima Zulu 
+SXS8JC : Sunexpress Eight Juliett Charlie 
+TAP926 : Air Portugal Nine Two Six 
+TAP927 : Air Portugal Nine Two Seven 
+TE09 : Tango Echo Zero Nine 
+TE22 : Tango Echo Two Two 
+TE23 : Tango Echo Two Three 
+TE24 : Tango Echo Two Four 
+TE782 : Tango Echo Seven Eight Two 
+THY1909 : Turkish One Nine Zero Nine 
+THY3HS : Turkish Three Hotel Sierra 
+TU015 : Tango Uniform Zero One Five 
+TU016 : Tango Uniform Zero One Six 
+TU17 : Tango Uniform One Seven 
+UAE88 : Emirates Eight Eight 
+
+

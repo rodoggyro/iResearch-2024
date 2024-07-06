@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0.04</start>
+		<end>7.91</end>
+		<speaker>B</speaker>
+		<speaker_label>VJT467</speaker_label>
+		<text>[#command]takeoff[/#command] [#value]runway[/#value] [#value]two[/#value] [#value]five[/#value] [hes] [#value]seven[/#value] [#value]miles[/#value] [#value]from[/#value] [#value]Sion[/#value] [#value]maximum[/#value] [#value]one[/#value] [#value]one[/#value] [#value]thousand[/#value] [#value]feet[/#value] [#callsign]Vista[/#callsign] [#callsign]Jet [/#callsign] [#callsign]Four[/#callsign] [#callsign]Six[/#callsign] [#callsign]Seven[/#callsign]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>8</start>
+		<end>9.06</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO Ground</speaker_label>
+		<text>[#callsign]Vista[/#callsign] [#callsign]Jet[/#callsign] [#callsign]Four[/#callsign] [#callsign]Six[/#callsign] [#callsign]Seven[/#callsign]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>8.61</start>
+		<end>9.51</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO approach</speaker_label>
+		<text>one point zero stand by</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>9.73</start>
+		<end>13.55</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO approach</speaker_label>
+		<text>Delta Alpha Uniform the field is at your two o'clock position four miles confirm in sight</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>13.76</start>
+		<end>16.64</end>
+		<speaker>B</speaker>
+		<speaker_label>DEKAU</speaker_label>
+		<text>affirm we descend flight and we are ready for visual Delta Alpha Uniform</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>16.92</start>
+		<end>21.43</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO approach</speaker_label>
+		<text>Delta Alpha Uniform further descend at your discretion cleared visual approach runway three two</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>21.71</start>
+		<end>23.91</end>
+		<speaker>B</speaker>
+		<speaker_label>DEKAU</speaker_label>
+		<text>cleared for visual approach three two Delta Alpha Uniform</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>23.99</start>
+		<end>28.15</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO approach</speaker_label>
+		<text>Delta Alpha Uniform radar service terminated contact tower one two one decimal zero two five</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>28.17</start>
+		<end>31.85</end>
+		<speaker>B</speaker>
+		<speaker_label>DEKAU</speaker_label>
+		<text>radar terminates and one two one zero two five [NE-German] bis spater [/NE] Delta Alpha Uniform</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>32.15</start>
+		<end>32.49</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO approach</speaker_label>
+		<text>Good night</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

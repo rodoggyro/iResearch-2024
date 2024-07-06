@@ -1,0 +1,30 @@
+airport: LKTB (Brno Turany)
+channel: Approach-Radar
+frequency: 127.350MHz
+UTC time: 2020-10-27 14:03:48
+coordinates: 49.1523117N, 16.6949717E
+manual: https://aim.rlp.cz/vfrmanual/actual/lktb_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lktb_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lktb_voc.jpg
+waypoints nearby: ADISU BELUX BITSI BOLMU BUKAP GINAT GIVIP IVOLI MORKO ODNEM ROGAD ROVSO
+callsigns nearby:
+AAR795 : Asiana Seven Nine Five
+AEE2DT : Aegean Two Delta Tango
+AUA1Z : Austrian Airlines One Zulu
+BRO21 : Broadsword Two One
+DLH8HT : Lufthansa Eight Hotel Tango
+DLH9YA : Lufthansa Nine Yankee Alfa
+KLM38W : Klm Three Eight Whiskey
+OKBAL :  Oscar Kilo Bravo Alfa Lima
+PGT23F : Sun Turk Two Three Foxtrot
+PGT68X : Sun Turk Six Eight X-ray
+QTR4LA : Qatari Four Lima Alfa
+QTR8011 : Qatari Eight Zero One One
+THY20T : Turkish Two Zero Tango
+THY5AG : Turkish Five Alfa Golf
+THY6289 : Turkish Six Two Eight Nine
+THY6454 : Turkish Six Four Five Four
+WZZ3FR : Wizzair Three Foxtrot Romeo
+YUPZM :  Yankee Uniform Papa Zulu Mike
+
+

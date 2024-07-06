@@ -1,0 +1,31 @@
+airport: LKTB (Brno Turany)
+channel: Tower
+frequency: 119.605MHz
+UTC time: 2020-10-29 18:02:05
+coordinates: 49.1523117N, 16.6949717E
+manual: https://aim.rlp.cz/vfrmanual/actual/lktb_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lktb_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lktb_voc.jpg
+waypoints nearby: ADISU BELUX BITSI BOLMU BUKAP GINAT GIVIP IVOLI MORKO ODNEM ROGAD ROVSO
+callsigns nearby:
+TTJ603 : Tatra Six Zero Three
+AUA125C : Austrian Airlines One Two Five Charlie
+BAW88TP : Speedbird Eight Eight Tango Papa
+OEKRI :  Oscar Echo Kilo Romeo India
+QTR8016 : Qatari Eight Zero One Six
+AUA455 : Austrian Airlines Four Five Five
+RYR3899 : Ryan Air Three Eight Nine Nine
+EWG56H : Eurowings Five Six Hotel
+LOT225 : Lot Two Two Five
+AZG204 : Silk West Two Zero Four
+EJU5849 : Alpine Five Eight Four Nine
+AUA315 : Austrian Airlines Three One Five
+AAR789 : Asiana Seven Eight Nine
+AUA235 : Austrian Airlines Two Three Five
+DFC4FQ : Dark Blue Four Foxtrot Quebec
+KLM1614 : Klm One Six One Four
+QTR7CL : Qatari Seven Charlie Lima
+AUA305 : Austrian Airlines Three Zero Five
+AUA602 : Austrian Airlines Six Zero Two
+
+

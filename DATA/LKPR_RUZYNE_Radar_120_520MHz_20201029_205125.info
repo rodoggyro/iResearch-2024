@@ -1,0 +1,41 @@
+airport: LKPR (Praha Ruzyne)
+channel: Radar
+frequency: 120.520MHz
+UTC time: 2020-10-29 20:51:25
+coordinates: 50.1028697N, 14.2623153E
+manual: https://aim.rlp.cz/vfrmanual/actual/lkpr_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_voc.jpg
+hs: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_hs.jpg
+pdc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_pdc.jpg
+waypoints nearby: AKEVA ARVEG BAGRU BAROX BAVIN BEKVI ELMEK ELPON ERASU EVEMI KENOK KUVIX LETNA RATEV RISUK SOMIS SULOV TIPRU UTORO
+callsigns nearby:
+RYR92BQ : Ryan Air Nine Two Bravo Quebec
+TAY4091 : Quality Four Zero Nine One
+TIE796Y : Time Air Seven Nine Six Yankee
+RYR8XM : Ryan Air Eight X-ray Mike
+PVD687H :  Papa Victor Delta Six Eight Seven Hotel
+QTR8232 : Qatari Eight Two Three Two
+WZZ1BK : Wizzair One Bravo Kilo
+K01 :  Kilo Zero One
+DLH5TP : Lufthansa Five Tango Papa
+ECC702 : Eclair Seven Zero Two
+KLM1981 : Klm One Nine Eight One
+UPS295 : Ups Two Nine Five
+CMB543 : Camber Five Four Three
+DLH7VA : Lufthansa Seven Victor Alfa
+CSA7KG : Csa / Czech Seven Kilo Golf
+DFC92K : Dark Blue Nine Two Kilo
+RYR5637 : Ryan Air Five Six Three Seven
+CSA509 : Csa / Czech Five Zero Nine
+RCH500 : Reach Five Zero Zero
+DLH8HR : Lufthansa Eight Hotel Romeo
+DFC4FQ : Dark Blue Four Foxtrot Quebec
+KLM79G : Klm Seven Nine Golf
+OKBYE :  Oscar Kilo Bravo Yankee Echo
+DLH6HF : Lufthansa Six Hotel Foxtrot
+SDR4281 : Sundair Four Two Eight One
+RYR1WD : Ryan Air One Whiskey Delta
+RYR1BA : Ryan Air One Bravo Alfa
+
+

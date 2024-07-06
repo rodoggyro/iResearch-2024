@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0.18</start>
+		<end>3.24</end>
+		<speaker>B</speaker>
+		<speaker_label>ABP951</speaker_label>
+		<text>[#value]one[/#value] [#value]two[/#value] [#value]four[/#value] [#value]decimal[/#value] [#value]two[/#value] [#value]two[/#value] [#value]five[/#value] [#callsign] Bair[/#callsign] [#callsign]Nine[/#callsign] [#callsign]Five[/#callsign] [#callsign]One[/#callsign] [#unnamed]good[/#unnamed] [#unnamed]bye[/#unnamed]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

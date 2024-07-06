@@ -1,0 +1,40 @@
+airport: LKTB (Brno Turany)
+channel: Tower
+frequency: 119.605MHz
+UTC time: 2020-10-27 12:23:31
+coordinates: 49.1523117N, 16.6949717E
+manual: https://aim.rlp.cz/vfrmanual/actual/lktb_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lktb_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lktb_voc.jpg
+waypoints nearby: ADISU BELUX BITSI BOLMU BUKAP GINAT GIVIP IVOLI MORKO ODNEM ROGAD ROVSO
+callsigns nearby:
+QTR4LA : Qatari Four Lima Alfa
+TVP7316 : Jet Travel Seven Three One Six
+THY5AG : Turkish Five Alfa Golf
+QTR6BL : Qatari Six Bravo Lima
+WZZ8DJ : Wizzair Eight Delta Juliett
+BRO21 : Broadsword Two One
+VDA8029 : Volga Eight Zero Two Nine
+OEFGR :  Oscar Echo Foxtrot Golf Romeo
+THY20T : Turkish Two Zero Tango
+OKBAL :  Oscar Kilo Bravo Alfa Lima
+WZZ299 : Wizzair Two Nine Nine
+QTR7UK : Qatari Seven Uniform Kilo
+AEE6RW : Aegean Six Romeo Whiskey
+AUA224 : Austrian Airlines Two Two Four
+KLM44K : Klm Four Four Kilo
+SPMBA :  Sierra Papa Mike Bravo Alfa
+WZZ3FR : Wizzair Three Foxtrot Romeo
+UAE8 : Emirates Eight
+WZZ13A : Wizzair One Three Alfa
+PGT68X : Sun Turk Six Eight X-ray
+CSA918 : Csa / Czech Nine One Eight
+THY6454 : Turkish Six Four Five Four
+THY6289 : Turkish Six Two Eight Nine
+WUK8MF : Wizz Go Eight Mike Foxtrot
+YUEAG :  Yankee Uniform Echo Alfa Golf
+DLH8HT : Lufthansa Eight Hotel Tango
+AEE2DT : Aegean Two Delta Tango
+AWC941 : Zap Nine Four One
+
+

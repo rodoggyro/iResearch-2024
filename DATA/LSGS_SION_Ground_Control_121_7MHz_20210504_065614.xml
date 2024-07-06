@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0.41</start>
+		<end>7.5</end>
+		<speaker>D</speaker>
+		<speaker_label>UNK-1</speaker_label>
+		<text>[#unnamed]Sion[/#unnamed] [#callsign]Heli[/#callsign] [#callsign]Hotel[/#callsign] [#callsign]Bravo[/#callsign] [#callsign]Zulu[/#callsign] [#callsign]Charlie[/#callsign] [#callsign]Zulu[/#callsign] [#command]we[/#command] [#command]just[/#command] [#command]upon[/#command] [#value]Val-d'Annivier[/#value] [#value]low[/#value] [#value]altitude[/#value] [#value]for[/#value] [#value]hook[/#value] [#value]mission[/#value] [#command]etablished[/#command] [#value]for[/#value] [#value]one[/#value] [#value]low[/#value] [#value]altitude[/#value]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

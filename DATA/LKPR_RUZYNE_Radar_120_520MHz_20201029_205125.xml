@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0</start>
+		<end>4.68</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO Radar</speaker_label>
+		<text>and KLM Seven Three Whiskey reduce speed one six zero knots till four DME</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>4.68</start>
+		<end>7.38</end>
+		<speaker>B</speaker>
+		<speaker_label>KLM73W</speaker_label>
+		<text>sixty to four DME KLM Seven Three Whiskey</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

@@ -1,0 +1,128 @@
+airport: LSZH (Zurich)
+channel: Tower
+frequency: 118.1MHz
+UTC time: 2021-04-18 10:24:39
+coordinates: 47.464722N, 8.549167E
+manual: https://www.ivao.ch/charts-2/
+waypoints nearby: AFOLT AGERI AKABI ALBIX ALINE AMIKI AMRUP ARGAX ARGEV ARTAG ATBAS BARIG BERSU BREGO DEGES DITON DONET DOPIL EDUMI EGABI EKRIT EKTUM ELMUR ENONO ENUSO ERMUS GARMO GERSA GIPOL IBILA KELIP KESEX KOLUL KUDIS KUSIX LAMAX LAPAG LAPDI LEDMI LUMEG MANEG MANID MATIV MILNI MOMOL MOSIT NEDOV NEMAG NOLKA OBEDU OLKEV OLNAV OMIDO OSNEM OSNOG RAMEM RAUTA RILAX RINLI RIPUS RISLI ROLSA ROMIR RONBA RONIX RUDSI SITOR SONGI SONOM SUBEX SUREP TADOB TINOX TITIX UMTOP URIGI URNAS UTIXO VEBIT VEDOK VIBAX VIBEV XANAL
+callsigns nearby:
+AFR218 : Air France Two One Eight 
+AFR82PX : Air France Eight Two Papa X-ray 
+AHO850V : Air Hamburg Eight Five Zero Victor 
+ANE80QY : Air Nostrum Eight Zero Quebec Yankee 
+ANE87UH : Air Nostrum Eight Seven Uniform Hotel 
+ASL54D : Air Serbia Five Four Delta 
+ATL779 : Centralmex Seven Seven Nine 
+ATL780 : Centralmex Seven Eight Zero 
+ATL781 : Centralmex Seven Eight One 
+AZA571 : Alitalia Five Seven One 
+AZE99TX : Arcus Air Nine Nine Tango X-ray 
+BTI7LZ : Air Baltic Seven Lima Zulu 
+BTI7PY : Air Baltic Seven Papa Yankee 
+DFQDP : Delta Foxtrot Quebec Delta Papa 
+DITRA : Delta India Tango Romeo Alpha 
+DLA4LL : Dolomiti Four Lima Lima 
+DLH2218 : Hansa Two Two One Eight 
+DLH22N : Hansa Two Two November 
+DLH2RY : Hansa Two Romeo Yankee 
+DLH55A : Hansa Five Five Alpha 
+DMKDF : Delta Mike Kilo Delta Foxtrot 
+DMNPR : Delta Mike November Papa Romeo 
+ECA12C : Eurocypria One Two Charlie 
+EDW12P : Edelweiss One Two Papa 
+EDW22Q : Edelweiss Two Two Quebec 
+EDW35Y : Edelweiss Three Five Yankee 
+FLORI238 : Flycom Romeo India Two Three Eight 
+GUSTI2 : Guja Tango India Two 
+HB2087 : Hotel Bravo Two Zero Eight Seven 
+HB2368 : Hotel Bravo Two Three Six Eight 
+HB3387 : Hotel Bravo Three Three Eight Seven 
+HBCGM : Halisa Golf Mike 
+HBFVD : Hotel Bravo Foxtrot Victor Delta 
+HBKMX : Hotel Bravo Kilo Mike X-ray 
+HBPSK : Hotel Bravo Papa Sierra Kilo 
+HBVRW : Hotel Bravo Victor Romeo Whiskey 
+HBYMD : Hotel Bravo Yankee Mike Delta 
+HBZWE : Hotel Bravo Zulu Whiskey Echo 
+IJM613 : Jet Management Six One Three 
+IWLFX : India Whiskey Lima Foxtrot X-ray 
+JFA03E : Mosquito Zero Three Echo 
+KLM57C : KLM Five Seven Charlie 
+KLM94F : KLM Nine Four Foxtrot 
+LGL921 : Luxair Nine Two One 
+LMJ180F : Masterjet One Eight Zero Foxtrot 
+MEA211 : Cedar Jet Two One One 
+MINSK : Mike India November Sierra Kilo 
+MLWCW : Mike Lima Whiskey Charlie Whiskey 
+N46PL : November Four Six Papa Lima 
+NJE156T : Fraction One Five Six Tango 
+NJE266N : Fraction Two Six Six November 
+ORION1 : Oscar Romeo India Oscar November One 
+PGT31H : Sunturk Three One Hotel 
+PGT947 : Sunturk Nine Four Seven 
+PWF101 : Private Wings One Zero One 
+PWF96 : Private Wings Nine Six 
+QTR02M : Qatari Zero Two Mike 
+QTR7UY : Qatari Seven Uniform Yankee 
+RGA01 : Royal Ghana Zero One 
+RTT1 : Romeo Tango Tango One 
+RYR16GC : Ryanair One Six Golf Charlie 
+SAZ61 : Swiss Ambulance Six One 
+SIA345 : Singapore Three Four Five 
+SWR : Swiss 
+SWR106Y : Swiss One Zero Six Yankee 
+SWR139K : Swiss One Three Nine Kilo 
+SWR144F : Swiss One Four Four Foxtrot 
+SWR14E : Swiss One Four Echo 
+SWR152Q : Swiss One Five Two Quebec 
+SWR154 : Swiss One Five Four 
+SWR15X : Swiss One Five X-ray 
+SWR161 : Swiss One Six One 
+SWR176 : Swiss One Seven Six 
+SWR1889 : Swiss One Eight Eight Nine 
+SWR19R : Swiss One Nine Romeo 
+SWR19T : Swiss One Nine Tango 
+SWR204K : Swiss Two Zero Four Kilo 
+SWR207N : Swiss Two Zero Seven November 
+SWR215T : Swiss Two One Five Tango 
+SWR22L : Swiss Two Two Lima 
+SWR242 : Swiss Two Four Two 
+SWR283W : Swiss Two Eight Three Whiskey 
+SWR289 : Swiss Two Eight Nine 
+SWR29F : Swiss Two Nine Foxtrot 
+SWR332 : Swiss Three Three Two 
+SWR38W : Swiss Three Eight Whiskey 
+SWR47GP : Swiss Four Seven Golf Papa 
+SWR55R : Swiss Five Five Romeo 
+SWR65 : Swiss Six Five 
+SWR69KC : Swiss Six Nine Kilo Charlie 
+SWR72TL : Swiss Seven Two Tango Lima 
+SWR79W : Swiss Seven Nine Whiskey 
+SWR841E : Swiss Eight Four One Echo 
+SWR85KV : Swiss Eight Five Kilo Victor 
+SWR86 : Swiss Eight Six 
+SWR93 : Swiss Nine Three 
+SWR94U : Swiss Nine Four Uniform 
+SWR9K : Swiss Nine Kilo 
+SXS9W : Sunexpress Nine Whiskey 
+TAP931C : Air Portugal Nine Three One Charlie 
+TAP932 : Air Portugal Nine Three Two 
+TE21 : Tango Echo Two One 
+TE22 : Tango Echo Two Two 
+TE26 : Tango Echo Two Six 
+TE782 : Tango Echo Seven Eight Two 
+THY3WQ : Turkish Three Whiskey Quebec 
+THY97F : Turkish Nine Seven Foxtrot 
+THY9PK : Turkish Nine Papa Kilo 
+TJS47 : Tyroljet Four Seven 
+TU17 : Tango Uniform One Seven 
+TUI9Y :  Nine Yankee 
+UAE87 : Emirates Eight Seven 
+UAL90 : United Nine Zero 
+VJT426 : Vista Malta Four Two Six 
+VJT437 : Vista Malta Four Three Seven 
+YUPBB : Yankee Uniform Papa Bravo Bravo 
+YUTBA : Yankee Uniform Tango Bravo Alpha 
+ZEBRA5 : Zulu Echo Bravo Romeo Alpha Five 
+
+

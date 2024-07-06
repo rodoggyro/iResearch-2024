@@ -1,0 +1,42 @@
+airport: LKTB (Brno Turany)
+channel: Tower
+frequency: 119.605MHz
+UTC time: 2020-10-29 10:21:29
+coordinates: 49.1523117N, 16.6949717E
+manual: https://aim.rlp.cz/vfrmanual/actual/lktb_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lktb_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lktb_voc.jpg
+waypoints nearby: ADISU BELUX BITSI BOLMU BUKAP GINAT GIVIP IVOLI MORKO ODNEM ROGAD ROVSO
+callsigns nearby:
+AFL2184 : Aeroflot Two One Eight Four
+AFL2718 : Aeroflot Two Seven One Eight
+AUA224 : Austrian Airlines Two Two Four
+AUA8HM : Austrian Airlines Eight Hotel Mike
+AZG5716 : Silk West Five Seven One Six
+BTI8JX : Air Baltic Eight Juliett X-ray
+BTI9HP : Air Baltic Nine Hotel Papa
+EJU75QR : Alpine Seven Five Quebec Romeo
+ELJ501 : Topjet Five Zero One
+ETD12 : Etihad One Two
+ETD48S : Etihad Four Eight Sierra
+ETD59V : Etihad Five Nine Victor
+FIN6RL : Finn Air Six Romeo Lima
+FJCEC : Falconjet Echo Charlie
+LZB319 : Flying Bulgaria Three One Nine
+NJE846T : Fraction Eight Four Six Tango
+OECOG :  Oscar Echo Charlie Oscar Golf
+OKDSV :  Oscar Kilo Delta Sierra Victor
+OKFAR :  Oscar Kilo Foxtrot Alfa Romeo
+OKFAS :  Oscar Kilo Foxtrot Alfa Sierra
+OKHSI :  Oscar Kilo Hotel Sierra India
+OKMDH :  Oscar Kilo Mike Delta Hotel
+OKZUR55 :  Oscar Kilo Zulu Uniform Romeo Five Five
+PGT42W : Sun Turk Four Two Whiskey
+QTR8251 : Qatari Eight Two Five One
+SBI8583 : Siberian Airlines Eight Five Eight Three
+SRN771P : Sprintair Seven Seven One Papa
+THY1159 : Turkish One One Five Nine
+THY5BX : Turkish Five Bravo X-ray
+WZZ8625 : Wizzair Eight Six Two Five
+
+

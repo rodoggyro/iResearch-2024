@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0</start>
+		<end>1.63</end>
+		<speaker>G</speaker>
+		<speaker_label>Crosstalk</speaker_label>
+		<text>ready to touchdown [XT]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>1.63</start>
+		<end>2.89</end>
+		<speaker>B</speaker>
+		<speaker_label>PGT947</speaker_label>
+		<text>(-er) Four Seven on juliett</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>2.97</start>
+		<end>10.79</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO tower</speaker_label>
+		<text>Sunturk Niner Four Seven tower taxiway Juliett cross runway two eight contact apron one two one decimal seven five five bye</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

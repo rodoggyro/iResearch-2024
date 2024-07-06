@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0.07</start>
+		<end>2.52</end>
+		<speaker>B</speaker>
+		<speaker_label>SUI528</speaker_label>
+		<text>passing [#value]one[/#value] [#value]three[/#value] [#value]thousand[/#value] [#value]seven [/#value] [#value]eight[/#value] [hes] [#callsign]Five[/#callsign] [#callsign]Two[/#callsign] [#callsign]Eight[/#callsign]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>3.09</start>
+		<end>7.37</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO Ground</speaker_label>
+		<text>[#callsign]Swiss[/#callsign] [#callsign]Air[/#callsign] [#callsign]Force[/#callsign] [#callsign]Five[/#callsign] [#callsign]Two[/#callsign] [#callsign]Eight [/#callsign] [#command] contact[/#command] [#unnamed]Swiss[/#unnamed] [#unnamed]Radar [/#unnamed] [#value]one[/#value] [#value]two[/#value] [#value]four[/#value] [#value]decimal[/#value] [#value]two[/#value] [#value]two[/#value] [#value]five[/#value] [#unnamed]good[/#unnamed] [#unnamed]bye[/#unnamed]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>7.85</start>
+		<end>11.37</end>
+		<speaker>B</speaker>
+		<speaker_label>SUI528</speaker_label>
+		<text>[#value]one[/#value] [#value]two[/#value] [#value]four[/#value] [#value]two[/#value] [#value]two[/#value] [#value]five[/#value] [#callsign] Air[/#callsign] [#callsign]Force[/#callsign] [#callsign]Five[/#callsign] [#callsign]Two[/#callsign] [#callsign]Eight [/#callsign]  [hes] [#unnamed][NE-French]aurevoir[/NE][/#unnamed]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

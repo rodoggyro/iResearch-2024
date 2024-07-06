@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0.23</start>
+		<end>5.48</end>
+		<speaker>B</speaker>
+		<speaker_label>HBKGO</speaker_label>
+		<text>[#callsign]Hotel[/#callsign] [#callsign]Bravo[/#callsign] [#callsign]Golf[/#callsign] [#callsign]Kilo[/#callsign]   [#callsign]Echo [/#callsign] [#value]one[/#value] [#value]four[/#value] [#value]thousand[/#value] [#value]feet[/#value]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>5.7</start>
+		<end>8.24</end>
+		<speaker>B</speaker>
+		<speaker_label>HBKGO</speaker_label>
+		<text>[#callsign]Golf[/#callsign] [#callsign]Kilo[/#callsign] [#unnamed]thank[/#unnamed] [#unnamed]you[/#unnamed] [#command]continue[/#command] [#value]descend[/#value] [#command]report[/#command] [#value]echo[/#value] [#value]two[/#value]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

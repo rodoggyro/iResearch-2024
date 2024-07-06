@@ -1,0 +1,167 @@
+airport: YSSY (Sydney)
+channel: Tower
+frequency: 120.5MHz
+UTC time: 2021-05-05 04:14:24
+coordinates: 33.9461S, 151.177222E
+manual: https://www.airservicesaustralia.com/aip/current/dap/AeroProcChartsTOC.htm
+waypoints nearby: ABBEY ANKUB ATRET BEROW BIGEM BIKUS BOBIG BOOGI BUVLO CLIFF COONY CORDO DALAR DEENA DIPPA DUDOK DUMOP DUNES ENDEV ENKAS ENTRA FISHA GOMUB HALAS HOOKS IGALA ISMER JAKLN JELLI JENTL JULIA KABLO KAMBA KAMPI KEVIN LANOL LISHA MAJAR MANFA MARKY MARUB MITSA NASHO NESSY NOBAR NOLEM OLSOG OVILS PEBRA PEGBA POSTY PRAWN RAKSO RENAM RISOL SBKWA SBKWB SBKWF SBKWH SBKWI SBKWM SCNWF SCNWH SCNWM SHORE SOSIJ SRIEA SRIEB SRIEF SRIEH SRIEI SRIEM SRIWF SRIWG SRIWH SRIWI SRIWM SSYEF SSYEH SSYEM SSYNF SSYNH SSYNI SSYNM SSYSF SSYSH SSYSM SSYWF SSYWH SSYWM SUZAN SYDNF SYDNH SYDNM SYDSF SYDSH SYDSM SYRBB SYRCC SYRDD SYRFF SYRGG TAMMI TESAT TONTO TONUX URDEN UXAMA VENUL VIDIK VOSSI WHALE WOLNA WOLNC WOLND WOLNF WOLNI ZONKA
+callsigns nearby:
+ACA7302 : Air Canada Seven Three Zero Two 
+AE828 : Alpha Echo Eight Two Eight 
+AE917 : Alpha Echo Nine One Seven 
+AE921 : Alpha Echo Nine Two One 
+AM217 : Alpha Mike Two One Seven 
+AM219 : Alpha Mike Two One Nine 
+AM242 : Alpha Mike Two Four Two 
+AM262 : Alpha Mike Two Six Two 
+AM271 : Alpha Mike Two Seven One 
+BSMN47 : Bravo Sierra Mike November Four Seven 
+CFH23 : Care Flight Two Three 
+CRK2017 : Bauhinia Two Zero One Seven 
+ENX : Echo November X-ray 
+EXU : Sacair 
+FD284 : Foxtrot Delta Two Eight Four 
+FDX6013 : Fedex Six Zero One Three 
+FDX77 : Fedex Seven Seven 
+FGP : Flying Center 
+FYE : Flyme 
+GJZ : Golf Juliett Zulu 
+JEC : Juliett Echo Charlie 
+JST204 : Jetstar Two Zero Four 
+JST205 : Jetstar Two Zero Five 
+JST407 : Jetstar Four Zero Seven 
+JST410 : Jetstar Four One Zero 
+JST413 : Jetstar Four One Three 
+JST418 : Jetstar Four One Eight 
+JST460 : Jetstar Four Six Zero 
+JST512 : Jetstar Five One Two 
+JST514 : Jetstar Five One Four 
+JST517 : Jetstar Five One Seven 
+JST606 : Jetstar Six Zero Six 
+JST720 : Jetstar Seven Two Zero 
+JST767 : Jetstar Seven Six Seven 
+JST768 : Jetstar Seven Six Eight 
+JST790 : Jetstar Seven Nine Zero 
+JST825 : Jetstar Eight Two Five 
+JST826 : Jetstar Eight Two Six 
+JST846 : Jetstar Eight Four Six 
+JST957 : Jetstar Nine Five Seven 
+JST986 : Jetstar Nine Eight Six 
+JVF : Juliett Victor Foxtrot 
+LIFE21 : Lifecare Echo Two One 
+LZB : Flying Bulgaria 
+NJR : November Juliett Romeo 
+NPD : November Papa Delta 
+OLJ : Oscar Lima Juliett 
+PE824 : Papa Echo Eight Two Four 
+PE998 : Papa Echo Nine Nine Eight 
+PIE : Pirate 
+PKAR04 : Pakistan Airway Romeo Zero Four 
+POL25 : Papa Oscar Lima Two Five 
+POL29 : Papa Oscar Lima Two Nine 
+PVM : Papa Victor Mike 
+QFA436 : Qantas Four Three Six 
+QFA440 : Qantas Four Four Zero 
+QFA441 : Qantas Four Four One 
+QFA444 : Qantas Four Four Four 
+QFA446 : Qantas Four Four Six 
+QFA447 : Qantas Four Four Seven 
+QFA448 : Qantas Four Four Eight 
+QFA449 : Qantas Four Four Nine 
+QFA450 : Qantas Four Five Zero 
+QFA451 : Qantas Four Five One 
+QFA455 : Qantas Four Five Five 
+QFA463 : Qantas Four Six Three 
+QFA517 : Qantas Five One Seven 
+QFA521 : Qantas Five Two One 
+QFA528 : Qantas Five Two Eight 
+QFA532 : Qantas Five Three Two 
+QFA579 : Qantas Five Seven Nine 
+QFA592 : Qantas Five Nine Two 
+QFA593 : Qantas Five Nine Three 
+QFA642 : Qantas Six Four Two 
+QFA644 : Qantas Six Four Four 
+QFA647 : Qantas Six Four Seven 
+QFA738 : Qantas Seven Three Eight 
+QFA739 : Qantas Seven Three Nine 
+QFA740 : Qantas Seven Four Zero 
+QFA741 : Qantas Seven Four One 
+QFA842 : Qantas Eight Four Two 
+QFA897 : Qantas Eight Nine Seven 
+QJE1506 : Qjet One Five Zero Six 
+QJE1532 : Qjet One Five Three Two 
+QJE1570 : Qjet One Five Seven Zero 
+QJE1789 : Qjet One Seven Eight Nine 
+QJE1902 : Qjet One Nine Zero Two 
+QJE1903 : Qjet One Nine Zero Three 
+QJE1905 : Qjet One Nine Zero Five 
+QLK109D : Qlink One Zero Nine Delta 
+QLK11 : Qlink One One 
+QLK121 : Qlink One Two One 
+QLK122 : Qlink One Two Two 
+QLK164D : Qlink One Six Four Delta 
+QLK177 : Qlink One Seven Seven 
+QLK178 : Qlink One Seven Eight 
+QLK181 : Qlink One Eight One 
+QLK204D : Qlink Two Zero Four Delta 
+QLK213D : Qlink Two One Three Delta 
+QLK223D : Qlink Two Two Three Delta 
+QLK224D : Qlink Two Two Four Delta 
+QLK229D : Qlink Two Two Nine Delta 
+QLK438D : Qlink Four Three Eight Delta 
+QLK46D : Qlink Four Six Delta 
+QLK6D : Qlink Six Delta 
+QLK710 : Qlink Seven One Zero 
+QLK714 : Qlink Seven One Four 
+QLK715 : Qlink Seven One Five 
+QTR6TP : Qatari Six Tango Papa 
+RSCU206 : Tarascas Uniform Two Zero Six 
+RXA102 : Rex One Zero Two 
+RXA111 : Rex One One One 
+RXA121 : Rex One Two One 
+RXA1822 : Rex One Eight Two Two 
+RXA1833 : Rex One Eight Three Three 
+RXA1835 : Rex One Eight Three Five 
+RXA540 : Rex Five Four Zero 
+RXA551 : Rex Five Five One 
+RXA6118 : Rex Six One One Eight 
+RXA6133 : Rex Six One Three Three 
+RXA6374 : Rex Six Three Seven Four 
+RXA6436 : Rex Six Four Three Six 
+RXA6464 : Rex Six Four Six Four 
+RXA6469 : Rex Six Four Six Nine 
+RXA6526 : Rex Six Five Two Six 
+RXA6624 : Rex Six Six Two Four 
+RXA6625 : Rex Six Six Two Five 
+RXA6857 : Rex Six Eight Five Seven 
+RXA6868 : Rex Six Eight Six Eight 
+SIA222 : Singapore Two Two Two 
+SIA241 : Singapore Two Four One 
+SIA244 : Singapore Two Four Four 
+UAE2510 : Emirates Two Five One Zero 
+UNB : Uniform November Bravo 
+UPS34 : UPS Three Four 
+VOZ1140 : Velocity One One Four Zero 
+VOZ1282 : Velocity One Two Eight Two 
+VOZ1418 : Velocity One Four One Eight 
+VOZ1532 : Velocity One Five Three Two 
+VOZ417 : Velocity Four One Seven 
+VOZ424 : Velocity Four Two Four 
+VOZ482 : Velocity Four Eight Two 
+VOZ517 : Velocity Five One Seven 
+VOZ518 : Velocity Five One Eight 
+VOZ523 : Velocity Five Two Three 
+VOZ524 : Velocity Five Two Four 
+VOZ527 : Velocity Five Two Seven 
+VOZ838 : Velocity Eight Three Eight 
+VOZ841 : Velocity Eight Four One 
+VOZ842 : Velocity Eight Four Two 
+VOZ846 : Velocity Eight Four Six 
+VOZ849 : Velocity Eight Four Nine 
+VOZ853 : Velocity Eight Five Three 
+VOZ946 : Velocity Nine Four Six 
+VOZ947 : Velocity Nine Four Seven 
+YNE : Yankee November Echo 
+ZFB : Zulu Foxtrot Bravo 
+
+

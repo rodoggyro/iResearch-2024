@@ -1,0 +1,74 @@
+airport: LKPR (Praha Ruzyne)
+channel: Tower
+frequency: 134.560MHz
+UTC time: 2020-10-28 11:10:34
+coordinates: 50.1028697N, 14.2623153E
+manual: https://aim.rlp.cz/vfrmanual/actual/lkpr_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_voc.jpg
+hs: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_hs.jpg
+pdc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_pdc.jpg
+waypoints nearby: AKEVA ARVEG BAGRU BAROX BAVIN BEKVI ELMEK ELPON ERASU EVEMI KENOK KUVIX LETNA RATEV RISUK SOMIS SULOV TIPRU UTORO
+callsigns nearby:
+AFR17DT : Air France One Seven Delta Tango
+AMC539 : Air Malta Five Three Nine
+AUA29CT : Austrian Airlines Two Nine Charlie Tango
+BAW854 : Speedbird Eight Five Four
+BAW855 : Speedbird Eight Five Five
+BOH711 : Bohemia Seven One One
+BOH712 : Bohemia Seven One Two
+BRU861 : Belarus Avia Eight Six One
+CSA2DZ : Csa / Czech Two Delta Zulu
+CSA894 : Csa / Czech Eight Nine Four
+CSA918 : Csa / Czech Nine One Eight
+DFC4FQ : Dark Blue Four Foxtrot Quebec
+DLH3NL : Lufthansa Three November Lima
+DLH5UY : Lufthansa Five Uniform Yankee
+DLH9TP : Lufthansa Nine Tango Papa
+FHM1725 : Eurobird One Seven Two Five
+FYL61CB : Flyinglux Six One Charlie Bravo
+FYL62CB : Flyinglux Six Two Charlie Bravo
+K01 :  Kilo Zero One
+KLM44K : Klm Four Four Kilo
+LOT412 : Lot Four One Two
+LOT527 : Lot Five Two Seven
+LOT528 : Lot Five Two Eight
+N201HS :  November Two Zero One Hotel Sierra
+OEFLZ :  Oscar Echo Foxtrot Lima Zulu
+OEVSO :  Oscar Echo Victor Sierra Oscar
+OKAVK : Okayjet Victor Kilo
+OKBAL :  Oscar Kilo Bravo Alfa Lima
+OKBYI :  Oscar Kilo Bravo Yankee India
+OKBYT :  Oscar Kilo Bravo Yankee Tango
+OKCMR : Thunder Wings Mike Romeo
+OKDSV :  Oscar Kilo Delta Sierra Victor
+OKHBT :  Oscar Kilo Hotel Bravo Tango
+OKHHH :  Oscar Kilo Hotel Hotel Hotel
+OKLIO : Oklahoma India Oscar
+OKLLZ : Oklahoma Lima Zulu
+OKMDH :  Oscar Kilo Mike Delta Hotel
+OKMHZ :  Oscar Kilo Mike Hotel Zulu
+OKMLD :  Oscar Kilo Mike Lima Delta
+OKPMA : Okapi Mike Alfa
+OKPRM : Okapi Romeo Mike
+OKTJL : Soko Air Juliett Lima
+OKTOC : Soko Air Oscar Charlie
+OKVAR12 :  Oscar Kilo Victor Alfa Romeo One Two
+OKWUS13 :  Oscar Kilo Whiskey Uniform Sierra One Three
+OKWUS17 :  Oscar Kilo Whiskey Uniform Sierra One Seven
+OKXUS29 :  Oscar Kilo X-ray Uniform Sierra Two Nine
+QNR25A : Queen Air Two Five Alfa
+QTR4LA : Qatari Four Lima Alfa
+QTR6BL : Qatari Six Bravo Lima
+RYR303 : Ryan Air Three Zero Three
+RYR6121 : Ryan Air Six One Two One
+SAZ72 : Swiss Ambulance Seven Two
+SXS4T : Sunexpress Four Tango
+THY6201 : Turkish Six Two Zero One
+TVS4368 : Sky Travel Four Three Six Eight
+TVS437F : Sky Travel Four Three Seven Foxtrot
+TVS4386 : Sky Travel Four Three Eight Six
+UAE139 : Emirates One Three Nine
+WZZ3858 : Wizzair Three Eight Five Eight
+
+

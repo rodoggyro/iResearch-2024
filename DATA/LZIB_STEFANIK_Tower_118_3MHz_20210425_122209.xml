@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0</start>
+		<end>4.3</end>
+		<speaker>B</speaker>
+		<speaker_label>TJ202</speaker_label>
+		<text>Stefanik tower [NE Slovak] ahoj [/NE] Topjet Two Zero Two established final track RNP three one</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>4.4</start>
+		<end>11.43</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO tower</speaker_label>
+		<text>Topjet Two Zero Two Stefanik tower [NE Slovak] dobrý deň [/NE] wind three one zero degrees two one knots runway three one clear to land</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>11.47</start>
+		<end>13.87</end>
+		<speaker>B</speaker>
+		<speaker_label>TJ202</speaker_label>
+		<text>runway three one cleared to land Topjet Two Zero Two</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

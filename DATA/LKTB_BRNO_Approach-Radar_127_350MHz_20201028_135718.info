@@ -1,0 +1,49 @@
+airport: LKTB (Brno Turany)
+channel: Approach-Radar
+frequency: 127.350MHz
+UTC time: 2020-10-28 13:57:18
+coordinates: 49.1523117N, 16.6949717E
+manual: https://aim.rlp.cz/vfrmanual/actual/lktb_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lktb_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lktb_voc.jpg
+waypoints nearby: ADISU BELUX BITSI BOLMU BUKAP GINAT GIVIP IVOLI MORKO ODNEM ROGAD ROVSO
+callsigns nearby:
+AAR795 : Asiana Seven Nine Five
+AUA1Z : Austrian Airlines One Zulu
+CAI3104 : Corendon Three One Zero Four
+CSA918 : Csa / Czech Nine One Eight
+DLH6YW : Lufthansa Six Yankee Whiskey
+FCK511 : Nav Checker Five One One
+FRF300 : Fairfleet Three Zero Zero
+K04 :  Kilo Zero Four
+METAL : Metman Alfa Lima
+N123CZ :  November One Two Three Charlie Zulu
+OEAHM : Orient Thai Hotel Mike
+OEALJ : Orient Thai Lima Juliett
+OECOG :  Oscar Echo Charlie Oscar Golf
+OEDTA : Orion Charter Tango Alfa
+OEDYU : Orion Charter Yankee Uniform
+OKBAL :  Oscar Kilo Bravo Alfa Lima
+OKCMR : Thunder Wings Mike Romeo
+OKFAR :  Oscar Kilo Foxtrot Alfa Romeo
+OKFAS :  Oscar Kilo Foxtrot Alfa Sierra
+OKIUR13 :  Oscar Kilo India Uniform Romeo One Three
+OKPVN : Okapi Victor November
+OKRAV :  Oscar Kilo Romeo Alfa Victor
+OKSIA :  Oscar Kilo Sierra India Alfa
+OKVAU99 :  Oscar Kilo Victor Alfa Uniform Nine Nine
+OKVSB :  Oscar Kilo Victor Sierra Bravo
+OKWAR24 :  Oscar Kilo Whiskey Alfa Romeo Two Four
+OKXUS29 :  Oscar Kilo X-ray Uniform Sierra Two Nine
+OKYUI79 :  Oscar Kilo Yankee Uniform India Seven Nine
+OKYWC77 :  Oscar Kilo Yankee Whiskey Charlie Seven Seven
+OKZUN07 :  Oscar Kilo Zulu Uniform November Zero Seven
+OMM632 :  Oscar Mike Mike Six Three Two
+PGT14J : Sun Turk One Four Juliett
+QTR8020 : Qatari Eight Zero Two Zero
+ROT362M : Tarom Three Six Two Mike
+SPSEE : Salduero Echo Echo
+SUA681 : Air Silesia Six Eight One
+UAE9987 : Emirates Nine Nine Eight Seven
+
+

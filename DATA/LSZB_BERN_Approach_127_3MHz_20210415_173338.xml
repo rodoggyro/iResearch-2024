@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0</start>
+		<end>8.86</end>
+		<speaker>B</speaker>
+		<speaker_label>SUI042</speaker_label>
+		<text>startup approved runway one two QNH one zero two one to destination morning three zero departure flight level one hundred and squawk one thousand Swiss Air Force Zero Four Two</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>9.03</start>
+		<end>11.03</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO approach</speaker_label>
+		<text>Swiss Air Force Zero Four Two read back correct</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

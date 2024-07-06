@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0</start>
+		<end>3.72</end>
+		<speaker>B</speaker>
+		<speaker_label>ABP941</speaker_label>
+		<text>[NE Slovak] dobré popoludnie [/NE] Stefanik tower Bair Niner Four One ILS three one</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>3.9</start>
+		<end>12.21</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO tower</speaker_label>
+		<text>Bair Nine Four One Stefanik tower [NE Slovak] pekné popoludnie [/NE] wind three one zero degrees eight knots variable between two seven zero and three three zero degrees runway three one cleared to land</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>12.34</start>
+		<end>14.96</end>
+		<speaker>B</speaker>
+		<speaker_label>ABP941</speaker_label>
+		<text> runway three one cleared to land Bair Niner Four One</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

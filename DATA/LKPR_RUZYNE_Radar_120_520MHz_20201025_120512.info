@@ -1,0 +1,63 @@
+airport: LKPR (Praha Ruzyne)
+channel: Radar
+frequency: 120.520MHz
+UTC time: 2020-10-25 12:05:12
+coordinates: 50.1028697N, 14.2623153E
+manual: https://aim.rlp.cz/vfrmanual/actual/lkpr_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_voc.jpg
+hs: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_hs.jpg
+pdc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_pdc.jpg
+waypoints nearby: AKEVA ARVEG BAGRU BAROX BAVIN BEKVI ELMEK ELPON ERASU EVEMI KENOK KUVIX LETNA RATEV RISUK SOMIS SULOV TIPRU UTORO
+callsigns nearby:
+EZS93AV : Topswiss Nine Three Alfa Victor
+OKPHM : Okapi Hotel Mike
+DLH9TP : Lufthansa Nine Tango Papa
+QTR8004 : Qatari Eight Zero Zero Four
+OKWUS17 :  Oscar Kilo Whiskey Uniform Sierra One Seven
+ECC701 : Eclair Seven Zero One
+QTR8005 : Qatari Eight Zero Zero Five
+THY6286 : Turkish Six Two Eight Six
+PGT1527 : Sun Turk One Five Two Seven
+RYR77SJ : Ryan Air Seven Seven Sierra Juliett
+TVS5RU : Sky Travel Five Romeo Uniform
+RYR73AH : Ryan Air Seven Three Alfa Hotel
+CMB132 : Camber One Three Two
+DLH6YW : Lufthansa Six Yankee Whiskey
+OKOUU37 :  Oscar Kilo Oscar Uniform Uniform Three Seven
+OKVUS02 :  Oscar Kilo Victor Uniform Sierra Zero Two
+OKLLZ : Oklahoma Lima Zulu
+MLD864 : Air Moldova Eight Six Four
+UAE139 : Emirates One Three Nine
+CSA2DZ : Csa / Czech Two Delta Zulu
+RYR1JU : Ryan Air One Juliett Uniform
+DEBLN : Debonair Lima November
+DLH1935 : Lufthansa One Nine Three Five
+BRU862 : Belarus Avia Eight Six Two
+TIE790J : Time Air Seven Nine Zero Juliett
+PGT76A : Sun Turk Seven Six Alfa
+OKMHZ :  Oscar Kilo Mike Hotel Zulu
+DLH4RM : Lufthansa Four Romeo Mike
+OKAVK : Okayjet Victor Kilo
+OKHBT :  Oscar Kilo Hotel Bravo Tango
+EXS1SG : Channex One Sierra Golf
+BLA1RK : All Charter One Romeo Kilo
+RYR3345 : Ryan Air Three Three Four Five
+CSA6KG : Csa / Czech Six Kilo Golf
+BRU861 : Belarus Avia Eight Six One
+OKYAI14 :  Oscar Kilo Yankee Alfa India One Four
+SXS7D : Sunexpress Seven Delta
+OKKEA :  Oscar Kilo Kilo Echo Alfa
+SDR4995 : Sundair Four Nine Nine Five
+EWG7677 : Eurowings Seven Six Seven Seven
+RYR7RM : Ryan Air Seven Romeo Mike
+CSA94D : Csa / Czech Nine Four Delta
+KLM44K : Klm Four Four Kilo
+OKSOL :  Oscar Kilo Sierra Oscar Lima
+EZS1217 : Topswiss One Two One Seven
+UAE73 : Emirates Seven Three
+SFS80 : Topo Eight Zero
+CSA918 : Csa / Czech Nine One Eight
+OKTOP : Soko Air Oscar Papa
+
+

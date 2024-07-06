@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0.32</start>
+		<end>4.86</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO Ground</speaker_label>
+		<text>[#callsign]Nav[/#callsign] [#callsign]Checker[/#callsign] [#callsign]Five[/#callsign] [#callsign]One[/#callsign] [#callsign]One[/#callsign] [#command]report[/#command] [#value]passing[/#value] [#value]one[/#value] [#value]three[/#value] [#value]thousand[/#value] [#value]feet[/#value] [#command]and[/#command] [#command]climb[/#command] [#value]four[/#value] [#value]one[/#value] [#value]seven[/#value] [#value]thousand[/#value] [#value]feet[/#value]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>5.29</start>
+		<end>9.97</end>
+		<speaker>B</speaker>
+		<speaker_label>FCK511</speaker_label>
+		<text>[#unnamed]wilco[/#unnamed] [#callsign]Nav[/#callsign] [#callsign]Checker[/#callsign] [#command]climbing[/#command] [#value]one[/#value] [#value]seven[/#value] [#value]thousand[/#value] will [#command]report[/#command]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

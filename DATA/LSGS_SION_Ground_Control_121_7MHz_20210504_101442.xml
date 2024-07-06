@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0</start>
+		<end>5.75</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO Ground</speaker_label>
+		<text>[#callsign]Nav[/#callsign] [#callsign]Checker[/#callsign] [#callsign]Five[/#callsign] [#callsign]One[/#callsign] [#callsign]One[/#callsign] [#command]contact[/#command] [hes] [#value]Sion[/#value] [#value]approach[/#value] [#value]one[/#value] [#value]two[/#value] [#value]six[/#value] [#value]decimal[/#value] [#value]eight[/#value] [#value]two[/#value] [#value]five[/#value] [#command]talk[/#command] [#command]to[/#command] [#command]you[/#command] [#command]later[/#command]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>6.28</start>
+		<end>9.88</end>
+		<speaker>B</speaker>
+		<speaker_label>FCK511</speaker_label>
+		<text>[#value]one[/#value] [#value]two[/#value] [#value]six[/#value] [#value]eight[/#value] [#value]two[/#value] [#value]five[/#value] [#command]talk[/#command] [#command]to[/#command] [#command]you[/#command] [#command]later[/#command] [#callsign]Nav[/#callsign] [#callsign]Checker[/#callsign] [#callsign]Five[/#callsign] [#callsign]One[/#callsign] [#callsign]One[/#callsign]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

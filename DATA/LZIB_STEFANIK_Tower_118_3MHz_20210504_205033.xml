@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0</start>
+		<end>3.08</end>
+		<speaker>B</speaker>
+		<speaker_label>BCS13J</speaker_label>
+		<text>Eurotrans One Three Juliett request push and start</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>3.21</start>
+		<end>12.29</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO tower</speaker_label>
+		<text>good evening Eurotrans One Three Juliett startup and push back approved position to Foxtrot squawk four four two five</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>12.46</start>
+		<end>19.12</end>
+		<speaker>B</speaker>
+		<speaker_label>BCS13J</speaker_label>
+		<text>[hes] squawk four four two five and start and push pre- approved position foxtrot(fox-) two foxtrot</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

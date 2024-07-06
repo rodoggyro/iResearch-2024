@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0.13</start>
+		<end>2.27</end>
+		<speaker>B</speaker>
+		<speaker_label>JFA15B</speaker_label>
+		<text>[hes] it was for [#callsign]Mosquito[/#callsign] [#callsign]One[/#callsign] [#callsign]Five[/#callsign] [#callsign]Bravo[/#callsign]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>2.57</start>
+		<end>4.92</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO Ground</speaker_label>
+		<text>yes [#callsign]Mosquito[/#callsign] [#callsign]One[/#callsign] [#callsign]Five[/#callsign] [#callsign]Bravo[/#callsign] are you [#value]turning[/#value] [#value]base[/#value] [#value]now[/#value]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>5.34</start>
+		<end>7.06</end>
+		<speaker>B</speaker>
+		<speaker_label>JFA15B</speaker_label>
+		<text>[#value]turning[/#value] [#value]base[/#value] [#value]now [/#value] [#callsign]Mosquito[/#callsign] [#callsign]One[/#callsign] [#callsign]Five[/#callsign] [#callsign]Bravo[/#callsign]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>7.44</start>
+		<end>11.98</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO Ground</speaker_label>
+		<text>Sierra(Sie-) [#callsign]Sierra[/#callsign] [#callsign]Golf[/#callsign] [#callsign]Kilo [/#callsign] [#unnamed]stop[/#unnamed] [#unnamed]please[/#unnamed] [#command]hold[/#command] [#command]position[/#command] [#unnamed]sorry[/#unnamed] [#unnamed]sir[/#unnamed] [#command]hold[/#command] [#command]position[/#command] [#command]call[/#command] [#command]you[/#command] [#command]back[/#command]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

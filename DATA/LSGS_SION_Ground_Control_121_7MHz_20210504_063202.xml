@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0.32</start>
+		<end>5.67</end>
+		<speaker>D</speaker>
+		<speaker_label>UNK-1</speaker_label>
+		<text>[#callsign]Tango[/#callsign] [#callsign]Three[/#callsign] [#callsign]Six[/#callsign] [#callsign]Five [/#callsign] [#value]entering[/#value] [#value]Val[/#value] [#value]d'Heren[/#value] [#value]four[/#value] [#value]thousand[/#value] [#value]three[/#value] [#value]hundred[/#value] [#value]feet[/#value] [#command]climbing[/#command] [#unnamed]QNH[/#unnamed] [#value]one[/#value] [#value]zero[/#value] [#value]one[/#value] [#value]seven[/#value] [#value]six[/#value]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

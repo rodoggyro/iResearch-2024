@@ -1,0 +1,54 @@
+airport: LKPR (Praha Ruzyne)
+channel: Tower
+frequency: 134.560MHz
+UTC time: 2020-10-27 13:52:24
+coordinates: 50.1028697N, 14.2623153E
+manual: https://aim.rlp.cz/vfrmanual/actual/lkpr_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_voc.jpg
+hs: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_hs.jpg
+pdc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_pdc.jpg
+waypoints nearby: AKEVA ARVEG BAGRU BAROX BAVIN BEKVI ELMEK ELPON ERASU EVEMI KENOK KUVIX LETNA RATEV RISUK SOMIS SULOV TIPRU UTORO
+callsigns nearby:
+AFR108Z : Air France One Zero Eight Zulu
+AFR10BE : Air France One Zero Bravo Echo
+BLA4AP : All Charter Four Alfa Papa
+BRO21 : Broadsword Two One
+BTI7WD : Air Baltic Seven Whiskey Delta
+CSA2DZ : Csa / Czech Two Delta Zulu
+DLH4JN : Lufthansa Four Juliett November
+DLH4RM : Lufthansa Four Romeo Mike
+DLH5UY : Lufthansa Five Uniform Yankee
+DLH5YY : Lufthansa Five Yankee Yankee
+DLH6LL : Lufthansa Six Lima Lima
+ECC301 : Eclair Three Zero One
+NATO40 : Mass Air Oscar Four Zero
+OEFDI :  Oscar Echo Foxtrot Delta India
+OKAVK : Okayjet Victor Kilo
+OKBAL :  Oscar Kilo Bravo Alfa Lima
+OKBYA :  Oscar Kilo Bravo Yankee Alfa
+OKDSV :  Oscar Kilo Delta Sierra Victor
+OKMDH :  Oscar Kilo Mike Delta Hotel
+OKMHZ :  Oscar Kilo Mike Hotel Zulu
+OKNTU :  Oscar Kilo November Tango Uniform
+OKPRM : Okapi Romeo Mike
+OKTOC : Soko Air Oscar Charlie
+OKWUR34 :  Oscar Kilo Whiskey Uniform Romeo Three Four
+OKYUR99 :  Oscar Kilo Yankee Uniform Romeo Nine Nine
+OKYUS45 :  Oscar Kilo Yankee Uniform Sierra Four Five
+PGT302 : Sun Turk Three Zero Two
+PGT76A : Sun Turk Seven Six Alfa
+QQE405 :  Quebec Quebec Echo Four Zero Five
+QTR6BL : Qatari Six Bravo Lima
+RYR14K : Ryan Air One Four Kilo
+RYR1BA : Ryan Air One Bravo Alfa
+RYR5YJ : Ryan Air Five Yankee Juliett
+RYR92BQ : Ryan Air Nine Two Bravo Quebec
+SUA771 : Air Silesia Seven Seven One
+THY3XY : Turkish Three X-ray Yankee
+THY6289 : Turkish Six Two Eight Nine
+UAE9936 : Emirates Nine Nine Three Six
+WUK8670 : Wizz Go Eight Six Seven Zero
+YUTUU :  Yankee Uniform Tango Uniform Uniform
+
+

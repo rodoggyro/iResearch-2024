@@ -1,0 +1,42 @@
+airport: LKTB (Brno Turany)
+channel: Approach-Radar
+frequency: 127.350MHz
+UTC time: 2020-10-26 09:36:00
+coordinates: 49.1523117N, 16.6949717E
+manual: https://aim.rlp.cz/vfrmanual/actual/lktb_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lktb_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lktb_voc.jpg
+waypoints nearby: ADISU BELUX BITSI BOLMU BUKAP GINAT GIVIP IVOLI MORKO ODNEM ROGAD ROVSO
+callsigns nearby:
+AUA1CV : Austrian Airlines One Charlie Victor
+AUA1HZ : Austrian Airlines One Hotel Zulu
+AUA1J : Austrian Airlines One Juliett
+AUA224 : Austrian Airlines Two Two Four
+AUA2TU : Austrian Airlines Two Tango Uniform
+AUA6BV : Austrian Airlines Six Bravo Victor
+AUA8HM : Austrian Airlines Eight Hotel Mike
+AUA94 : Austrian Airlines Nine Four
+BAW696V : Speedbird Six Nine Six Victor
+BRU879 : Belarus Avia Eight Seven Nine
+BTI8JX : Air Baltic Eight Juliett X-ray
+CAI1272 : Corendon One Two Seven Two
+DFC85T : Dark Blue Eight Five Tango
+DLH08H : Lufthansa Zero Eight Hotel
+DUKE36 : Lion King Echo Three Six
+EJU94YT : Alpine Nine Four Yankee Tango
+EWG8KP : Eurowings Eight Kilo Papa
+HUAF344 : Humber Air Foxtrot Three Four Four
+LGL8851 : Luxair Eight Eight Five One
+LOT2VM : Lot Two Victor Mike
+NAX8906 : Nor / Norshuttle Eight Nine Zero Six
+OEIOF :  Oscar Echo India Oscar Foxtrot
+OKACT : Okayjet Charlie Tango
+QTR5YK : Qatari Five Yankee Kilo
+QTR730 : Qatari Seven Three Zero
+ROT361R : Tarom Three Six One Romeo
+RYR199 : Ryan Air One Nine Nine
+RYR74K : Ryan Air Seven Four Kilo
+SXS7VR : Sunexpress Seven Victor Romeo
+WZZ63VY : Wizzair Six Three Victor Yankee
+
+

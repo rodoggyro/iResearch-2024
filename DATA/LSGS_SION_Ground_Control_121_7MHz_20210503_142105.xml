@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0.21</start>
+		<end>7.25</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO Ground</speaker_label>
+		<text>[#callsign]Hotel[/#callsign] [#callsign]Bravo[/#callsign] [#callsign]Kilo[/#callsign] [#callsign]Papa [/#callsign]   [#callsign]Echo[/#callsign]     [#value]two[/#value] [#value]one[/#value] [#value]zero[/#value] [#value]degrees[/#value] [#value]four[/#value] [#value]knots[/#value] [#value]runway[/#value] [#value]two[/#value] [#value]five[/#value] [#command]cleared[/#command] [#value]takeoff[/#value] [#command]report[/#command]  [#value]november [/#value] [#value]whiskey[/#value]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

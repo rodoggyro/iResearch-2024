@@ -1,0 +1,72 @@
+airport: LKPR (Praha Ruzyne)
+channel: Radar
+frequency: 120.520MHz
+UTC time: 2020-10-25 16:18:08
+coordinates: 50.1028697N, 14.2623153E
+manual: https://aim.rlp.cz/vfrmanual/actual/lkpr_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_voc.jpg
+hs: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_hs.jpg
+pdc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_pdc.jpg
+waypoints nearby: AKEVA ARVEG BAGRU BAROX BAVIN BEKVI ELMEK ELPON ERASU EVEMI KENOK KUVIX LETNA RATEV RISUK SOMIS SULOV TIPRU UTORO
+callsigns nearby:
+AFR108Z : Air France One Zero Eight Zulu
+AFR10BE : Air France One Zero Bravo Echo
+AMC376 : Air Malta Three Seven Six
+BAW856Z : Speedbird Eight Five Six Zulu
+BAW887 : Speedbird Eight Eight Seven
+BOH711 : Bohemia Seven One One
+BTI223 : Air Baltic Two Two Three
+CSA1DZ : Csa / Czech One Delta Zulu
+CSA508 : Csa / Czech Five Zero Eight
+CSA7KG : Csa / Czech Seven Kilo Golf
+CSA919 : Csa / Czech Nine One Nine
+DHK547 : World Express Five Four Seven
+DLH2HA : Lufthansa Two Hotel Alfa
+DLH5CV : Lufthansa Five Charlie Victor
+DLH772 : Lufthansa Seven Seven Two
+ECC301 : Eclair Three Zero One
+EJU5815 : Alpine Five Eight One Five
+EWG1TK : Eurowings One Tango Kilo
+EWG7AB : Eurowings Seven Alfa Bravo
+ICV5717 : Cargo Med Five Seven One Seven
+KLM21Y : Klm Two One Yankee
+LZB301 : Flying Bulgaria Three Zero One
+LZB302 : Flying Bulgaria Three Zero Two
+NJE044G : Fraction Zero Four Four Golf
+OKHSI :  Oscar Kilo Hotel Sierra India
+OKKEA :  Oscar Kilo Kilo Echo Alfa
+OKKMC :  Oscar Kilo Kilo Mike Charlie
+OKLBA : Oklahoma Bravo Alfa
+OKLLZ : Oklahoma Lima Zulu
+OKMDH :  Oscar Kilo Mike Delta Hotel
+OKPMP : Okapi Mike Papa
+OKUUR14 :  Oscar Kilo Uniform Uniform Romeo One Four
+OKWYZ :  Oscar Kilo Whiskey Yankee Zulu
+OKXAI04 :  Oscar Kilo X-ray Alfa India Zero Four
+OKYAI14 :  Oscar Kilo Yankee Alfa India One Four
+OKYUA21 :  Oscar Kilo Yankee Uniform Alfa Two One
+OKZWC73 :  Oscar Kilo Zulu Whiskey Charlie Seven Three
+OMS737 : Mazoon Seven Three Seven
+PGT302 : Sun Turk Three Zero Two
+PGT5754 : Sun Turk Five Seven Five Four
+QTR8231 : Qatari Eight Two Three One
+RRR4941 : Ascot/kittyhawk Four Nine Four One
+RYR2122 : Ryan Air Two One Two Two
+RYR2319 : Ryan Air Two Three One Nine
+RYR2YK : Ryan Air Two Yankee Kilo
+RYR5XL : Ryan Air Five X-ray Lima
+RYR7797 : Ryan Air Seven Seven Nine Seven
+SWR134U : Swiss One Three Four Uniform
+T7VSR :  Tango Seven Victor Sierra Romeo
+TAP1241 : Air Portugal One Two Four One
+TAP1244 : Air Portugal One Two Four Four
+TIE790J : Time Air Seven Nine Zero Juliett
+TRA051 : Transavia Zero Five One
+TRA053 : Transavia Zero Five Three
+TVS2826 : Sky Travel Two Eight Two Six
+UAE140 : Emirates One Four Zero
+WZZ3858 : Wizzair Three Eight Five Eight
+WZZ9DD : Wizzair Nine Delta Delta
+
+

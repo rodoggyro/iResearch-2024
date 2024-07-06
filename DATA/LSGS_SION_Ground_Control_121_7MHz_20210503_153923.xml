@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>1.17</start>
+		<end>7.74</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO Ground</speaker_label>
+		<text>[#callsign]Foxtrot[/#callsign] [#callsign]Delta[/#callsign] [#callsign]Uniform [/#callsign] [#command]report[/#command] [#value] november[/#value] [#value]whiskey [/#value] [#unnamed]wind[/#unnamed] [#value]two[/#value] [#value]seven[/#value] [#value]zero[/#value] [#value]degrees[/#value]  [#value]one[/#value] [#value]zero[/#value] [#value]knots[/#value] [#value]runway[/#value] [#value]two[/#value] [#value]five[/#value] [#command]cleared[/#command] [#command]for[/#command] [#command]takeoff[/#command]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>8.35</start>
+		<end>13.64</end>
+		<speaker>B</speaker>
+		<speaker_label>FPADU</speaker_label>
+		<text>[#command]cleared[/#command] [#command]for[/#command] [#command]takeoff[/#command] [#value]two[/#value] [#value]five[/#value] [#callsign] Foxtrot[/#callsign] [#callsign]Delta[/#callsign] [#callsign]Uniform[/#callsign] [#unnamed]thanks[/#unnamed] [#value]november[/#value] [#value]whiskey[/#value]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

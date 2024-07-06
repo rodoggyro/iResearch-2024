@@ -1,0 +1,64 @@
+airport: LKPR (Praha Ruzyne)
+channel: Radar
+frequency: 120.520MHz
+UTC time: 2020-10-25 13:04:07
+coordinates: 50.1028697N, 14.2623153E
+manual: https://aim.rlp.cz/vfrmanual/actual/lkpr_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_voc.jpg
+hs: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_hs.jpg
+pdc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_pdc.jpg
+waypoints nearby: AKEVA ARVEG BAGRU BAROX BAVIN BEKVI ELMEK ELPON ERASU EVEMI KENOK KUVIX LETNA RATEV RISUK SOMIS SULOV TIPRU UTORO
+callsigns nearby:
+AFR108Z : Air France One Zero Eight Zulu
+BLA1RK : All Charter One Romeo Kilo
+BRU861 : Belarus Avia Eight Six One
+BRU862 : Belarus Avia Eight Six Two
+CMB132 : Camber One Three Two
+CSA2DZ : Csa / Czech Two Delta Zulu
+CSA6KG : Csa / Czech Six Kilo Golf
+CSA918 : Csa / Czech Nine One Eight
+CSA94D : Csa / Czech Nine Four Delta
+DEBLN : Debonair Lima November
+DLH1935 : Lufthansa One Nine Three Five
+DLH4RM : Lufthansa Four Romeo Mike
+DLH6YW : Lufthansa Six Yankee Whiskey
+EWG7677 : Eurowings Seven Six Seven Seven
+EXS1SG : Channex One Sierra Golf
+EZS1217 : Topswiss One Two One Seven
+EZS93AV : Topswiss Nine Three Alfa Victor
+OKAVK : Okayjet Victor Kilo
+OKDKB :  Oscar Kilo Delta Kilo Bravo
+OKHBT :  Oscar Kilo Hotel Bravo Tango
+OKKEA :  Oscar Kilo Kilo Echo Alfa
+OKLBA : Oklahoma Bravo Alfa
+OKLLZ : Oklahoma Lima Zulu
+OKMHZ :  Oscar Kilo Mike Hotel Zulu
+OKOUU37 :  Oscar Kilo Oscar Uniform Uniform Three Seven
+OKSOL :  Oscar Kilo Sierra Oscar Lima
+OKTOP : Soko Air Oscar Papa
+OKVUS02 :  Oscar Kilo Victor Uniform Sierra Zero Two
+OKWYZ :  Oscar Kilo Whiskey Yankee Zulu
+OKXAI04 :  Oscar Kilo X-ray Alfa India Zero Four
+OKYAI14 :  Oscar Kilo Yankee Alfa India One Four
+PGT1527 : Sun Turk One Five Two Seven
+PGT302 : Sun Turk Three Zero Two
+PGT76A : Sun Turk Seven Six Alfa
+QTR8004 : Qatari Eight Zero Zero Four
+QTR8005 : Qatari Eight Zero Zero Five
+RRR4941 : Ascot/kittyhawk Four Nine Four One
+RYR3345 : Ryan Air Three Three Four Five
+RYR5XL : Ryan Air Five X-ray Lima
+RYR73AH : Ryan Air Seven Three Alfa Hotel
+RYR77SJ : Ryan Air Seven Seven Sierra Juliett
+RYR7RM : Ryan Air Seven Romeo Mike
+SDR4272 : Sundair Four Two Seven Two
+SDR4995 : Sundair Four Nine Nine Five
+SFS80 : Topo Eight Zero
+TAP1244 : Air Portugal One Two Four Four
+TRA6868 : Transavia Six Eight Six Eight
+TVS5RU : Sky Travel Five Romeo Uniform
+UAE139 : Emirates One Three Nine
+WZZ9654 : Wizzair Nine Six Five Four
+
+

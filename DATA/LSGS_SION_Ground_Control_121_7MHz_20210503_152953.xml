@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0.14</start>
+		<end>7.49</end>
+		<speaker>D</speaker>
+		<speaker_label>UNK-1</speaker_label>
+		<text>[#unnamed]hello[/#unnamed] [#unnamed]tower[/#unnamed] [#callsign]helicopter[/#callsign] [#callsign]India[/#callsign] [#callsign]Juliett[/#callsign] [#unnamed]hello[/#unnamed] [#unnamed]again[/#unnamed] [#value]we[/#value] [#value]are[/#value] [#command]descending[/#command] [#value]Croix[/#value] [#value]de[/#value] [#value]Coeur[/#value] [#value]six[/#value] [#value]thousand[/#value] [#value]feet[/#value] [#value]six[/#value] [#value]thousand[/#value] [#value]eight[/#value] [#value]hundred[/#value] [#value]feet[/#value] [#command]descend[/#command] [#command]to[/#command] [#value]left[/#value] [#value]five[/#value] [#value]two[/#value]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>7.49</start>
+		<end>11.31</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO Ground</speaker_label>
+		<text>[#callsign]India[/#callsign] [#callsign]Juliett[/#callsign] [#command]report[/#command] [#value]hotel[/#value] [#value]sierra[/#value] [#value]or[/#value] [#value]golf[/#value] [#value]sierra[/#value] [#unnamed]QNH[/#unnamed] [#value]one[/#value] [#value]zero[/#value] [#value]one[/#value] [#value]seven[/#value]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

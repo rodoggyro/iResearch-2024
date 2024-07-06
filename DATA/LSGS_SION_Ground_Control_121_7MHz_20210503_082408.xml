@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0.15</start>
+		<end>7.14</end>
+		<speaker>B</speaker>
+		<speaker_label></speaker_label>
+		<text>[#callsign]Hotel[/#callsign] [#callsign]Bravo[/#callsign] [#callsign]Kilo[/#callsign] [#callsign]Charlie[/#callsign] [#callsign]Juliett[/#callsign]   [#value]echo[/#value] [#value]one[/#value] [#value]five[/#value] [#value]thousand[/#value] [#value]and[/#value] [#value]eight[/#value] [#value]four[/#value] [#value]thousand[/#value] [#value]eight[/#value] [#value]hundred[/#value] [#value]feet[/#value]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>7.98</start>
+		<end>10.07</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO Ground</speaker_label>
+		<text>[#unnamed]hello[/#unnamed] [#callsign]Charlie[/#callsign] [#callsign]Juliett[/#callsign] [#command]next[/#command] [#command]report[/#command] [#value]echo[/#value] [#value]two[/#value]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

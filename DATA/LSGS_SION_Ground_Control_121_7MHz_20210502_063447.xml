@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0.06</start>
+		<end>4.23</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO Ground</speaker_label>
+		<text>[#callsign]Hotel[/#callsign] [#callsign]Echo[/#callsign] [#callsign]X-ray[/#callsign] [#unnamed]wind[/#unnamed] [#value]two[/#value] [#value]six[/#value] [#value]degrees[/#value] [#value]nine[/#value] [#value]knots[/#value] [#value]runway[/#value] [#value]two[/#value] [#value]five[/#value] [#command]cleared[/#command] [#command]for[/#command] [#command]touch[/#command] [#command]and[/#command] [#command]go[/#command]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>4.44</start>
+		<end>7</end>
+		<speaker>D</speaker>
+		<speaker_label>UNK-1</speaker_label>
+		<text>[#command]cleared[/#command] [#command]for[/#command] [#command]touch[/#command] [#command]and[/#command] [#command]go[/#command] [#value]runway[/#value] [#value]two[/#value] [#value]five[/#value] [#callsign]Hotel[/#callsign] [#callsign]Echo[/#callsign] [#callsign]X-ray[/#callsign]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

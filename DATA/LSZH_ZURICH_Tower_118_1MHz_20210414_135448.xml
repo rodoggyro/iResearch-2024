@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0.11</start>
+		<end>7.5</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO tower</speaker_label>
+		<text>[#callsign]Hotel[/#callsign] [#callsign]Hotel[/#callsign] [#callsign]X-ray [/#callsign] [#command]vacacated[/#command] [#value]at[/#value] [#value]zero[/#value] [#value]and[/#value] [#value]to[/#value] [#value]the[/#value] [#value]right[/#value] [#command]and[/#command] [#command]contact[/#command] [#unnamed]apron[/#unnamed] [#value]one[/#value] [#value]two[/#value] [#value]one[/#value] [#value]decimal[/#value] [#value]seven[/#value] [#value]five[/#value] [#value]five[/#value] [#unnamed]bye[/#unnamed] [#unnamed]bye[/#unnamed]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

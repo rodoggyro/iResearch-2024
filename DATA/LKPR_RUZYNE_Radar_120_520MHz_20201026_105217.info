@@ -1,0 +1,59 @@
+airport: LKPR (Praha Ruzyne)
+channel: Radar
+frequency: 120.520MHz
+UTC time: 2020-10-26 10:52:17
+coordinates: 50.1028697N, 14.2623153E
+manual: https://aim.rlp.cz/vfrmanual/actual/lkpr_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_voc.jpg
+hs: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_hs.jpg
+pdc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_pdc.jpg
+waypoints nearby: AKEVA ARVEG BAGRU BAROX BAVIN BEKVI ELMEK ELPON ERASU EVEMI KENOK KUVIX LETNA RATEV RISUK SOMIS SULOV TIPRU UTORO
+callsigns nearby:
+WZZ35YT : Wizzair Three Five Yankee Tango
+OKPHM : Okapi Hotel Mike
+DFC57G : Dark Blue Five Seven Golf
+ROT361R : Tarom Three Six One Romeo
+QTR7GU : Qatari Seven Golf Uniform
+TIE784Y : Time Air Seven Eight Four Yankee
+QTR6BL : Qatari Six Bravo Lima
+DLH9TP : Lufthansa Nine Tango Papa
+LOT4MT : Lot Four Mike Tango
+VEGA24 : Aerovega Alfa Two Four
+2MRGT :  Two Mike Romeo Golf Tango
+LOT5RW : Lot Five Romeo Whiskey
+QTR3AU : Qatari Three Alfa Uniform
+BAW697V : Speedbird Six Nine Seven Victor
+OKACT : Okayjet Charlie Tango
+VLG8653 : Vueling Eight Six Five Three
+HUAF343 : Humber Air Foxtrot Three Four Three
+BLA200 : All Charter Two Zero Zero
+RYR6842 : Ryan Air Six Eight Four Two
+BAW855 : Speedbird Eight Five Five
+RYR1JU : Ryan Air One Juliett Uniform
+CSA2DZ : Csa / Czech Two Delta Zulu
+FYL62CB : Flyinglux Six Two Charlie Bravo
+IRA733 : Iranair Seven Three Three
+OKYAI14 :  Oscar Kilo Yankee Alfa India One Four
+DLH5UY : Lufthansa Five Uniform Yankee
+OKKEA :  Oscar Kilo Kilo Echo Alfa
+OEFDI :  Oscar Echo Foxtrot Delta India
+FYL61CB : Flyinglux Six One Charlie Bravo
+QTR59G : Qatari Five Nine Golf
+DFC85T : Dark Blue Eight Five Tango
+OKPRM : Okapi Romeo Mike
+WZZ1CE : Wizzair One Charlie Echo
+EJU94YT : Alpine Nine Four Yankee Tango
+LOT52P : Lot Five Two Papa
+VLG86TM : Vueling Eight Six Tango Mike
+PNC01J : Prince Aviation Zero One Juliett
+BAW854 : Speedbird Eight Five Four
+AUA89 : Austrian Airlines Eight Nine
+OEGWV : Orienteagle Whiskey Victor
+TVS35J : Sky Travel Three Five Juliett
+CSA918 : Csa / Czech Nine One Eight
+OKTOP : Soko Air Oscar Papa
+RYR1BA : Ryan Air One Bravo Alfa
+DLH3NL : Lufthansa Three November Lima
+
+

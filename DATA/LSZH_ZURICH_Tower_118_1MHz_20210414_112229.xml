@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0</start>
+		<end>6.25</end>
+		<speaker>C</speaker>
+		<speaker_label></speaker_label>
+		<text>two hundred Turkish Six Three Two Nine wind zero seven zero degrees one three gusting two zero knots runway one</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

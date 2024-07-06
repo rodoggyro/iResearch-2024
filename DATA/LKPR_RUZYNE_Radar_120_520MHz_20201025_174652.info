@@ -1,0 +1,65 @@
+airport: LKPR (Praha Ruzyne)
+channel: Radar
+frequency: 120.520MHz
+UTC time: 2020-10-25 17:46:52
+coordinates: 50.1028697N, 14.2623153E
+manual: https://aim.rlp.cz/vfrmanual/actual/lkpr_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_voc.jpg
+hs: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_hs.jpg
+pdc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_pdc.jpg
+waypoints nearby: AKEVA ARVEG BAGRU BAROX BAVIN BEKVI ELMEK ELPON ERASU EVEMI KENOK KUVIX LETNA RATEV RISUK SOMIS SULOV TIPRU UTORO
+callsigns nearby:
+AMC376 : Air Malta Three Seven Six
+BAW34V : Speedbird Three Four Victor
+BAW856Z : Speedbird Eight Five Six Zulu
+BAW887 : Speedbird Eight Eight Seven
+BOH711 : Bohemia Seven One One
+BTI223 : Air Baltic Two Two Three
+CSA1DZ : Csa / Czech One Delta Zulu
+CSA508 : Csa / Czech Five Zero Eight
+CSA7KG : Csa / Czech Seven Kilo Golf
+CSA919 : Csa / Czech Nine One Nine
+CSA95D : Csa / Czech Nine Five Delta
+DLH2HA : Lufthansa Two Hotel Alfa
+DLH5CV : Lufthansa Five Charlie Victor
+DLH772 : Lufthansa Seven Seven Two
+DLH8HR : Lufthansa Eight Hotel Romeo
+ECA9C : Dark Knight Nine Charlie
+ECC301 : Eclair Three Zero One
+EJU5815 : Alpine Five Eight One Five
+EWG1TK : Eurowings One Tango Kilo
+ICV5717 : Cargo Med Five Seven One Seven
+KLM1614 : Klm One Six One Four
+KLM21Y : Klm Two One Yankee
+KLM46A : Klm Four Six Alfa
+LOT373 : Lot Three Seven Three
+LZB302 : Flying Bulgaria Three Zero Two
+NJE044G : Fraction Zero Four Four Golf
+OKKMC :  Oscar Kilo Kilo Mike Charlie
+OKMDH :  Oscar Kilo Mike Delta Hotel
+OKPMP : Okapi Mike Papa
+OKXAI04 :  Oscar Kilo X-ray Alfa India Zero Four
+OKYUA21 :  Oscar Kilo Yankee Uniform Alfa Two One
+OKZWC73 :  Oscar Kilo Zulu Whiskey Charlie Seven Three
+OMS737 : Mazoon Seven Three Seven
+PGT5754 : Sun Turk Five Seven Five Four
+QTR5CF : Qatari Five Charlie Foxtrot
+QTR8231 : Qatari Eight Two Three One
+QTR8232 : Qatari Eight Two Three Two
+RYR2014 : Ryan Air Two Zero One Four
+RYR2319 : Ryan Air Two Three One Nine
+RYR295L : Ryan Air Two Nine Five Lima
+RYR7797 : Ryan Air Seven Seven Nine Seven
+SWR134U : Swiss One Three Four Uniform
+SWR165V : Swiss One Six Five Victor
+T7VSR :  Tango Seven Victor Sierra Romeo
+TIE790J : Time Air Seven Nine Zero Juliett
+TRA051 : Transavia Zero Five One
+TRA053 : Transavia Zero Five Three
+TVS2826 : Sky Travel Two Eight Two Six
+TVS5AD : Sky Travel Five Alfa Delta
+WZZ3858 : Wizzair Three Eight Five Eight
+WZZ9DD : Wizzair Nine Delta Delta
+
+

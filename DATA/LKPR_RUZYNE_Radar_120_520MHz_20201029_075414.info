@@ -1,0 +1,46 @@
+airport: LKPR (Praha Ruzyne)
+channel: Radar
+frequency: 120.520MHz
+UTC time: 2020-10-29 07:54:14
+coordinates: 50.1028697N, 14.2623153E
+manual: https://aim.rlp.cz/vfrmanual/actual/lkpr_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_voc.jpg
+hs: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_hs.jpg
+pdc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_pdc.jpg
+waypoints nearby: AKEVA ARVEG BAGRU BAROX BAVIN BEKVI ELMEK ELPON ERASU EVEMI KENOK KUVIX LETNA RATEV RISUK SOMIS SULOV TIPRU UTORO
+callsigns nearby:
+AHO876N : Air Hamburg Eight Seven Six November
+AUA7NC : Austrian Airlines Seven November Charlie
+BCS79Y : Eurotrans Seven Nine Yankee
+BTI629 : Air Baltic Six Two Nine
+CMB531 : Camber Five Three One
+CSA923 : Csa / Czech Nine Two Three
+DFCOC : Dark Blue Oscar Charlie
+DLH1371 : Lufthansa One Three Seven One
+DLH1959 : Lufthansa One Nine Five Nine
+DLH1KV : Lufthansa One Kilo Victor
+DLH1YY : Lufthansa One Yankee Yankee
+DLH3CF : Lufthansa Three Charlie Foxtrot
+DPHIN41 :  Delta Papa Hotel India November Four One
+ETD72E : Etihad Seven Two Echo
+K01 :  Kilo Zero One
+KLM1350 : Klm One Three Five Zero
+KLM1838 : Klm One Eight Three Eight
+KLM60C : Klm Six Zero Charlie
+LOT7KB : Lot Seven Kilo Bravo
+OKAOA : Okayjet Oscar Alfa
+OKBYE :  Oscar Kilo Bravo Yankee Echo
+OKHSI :  Oscar Kilo Hotel Sierra India
+OKMDH :  Oscar Kilo Mike Delta Hotel
+OKMNM :  Oscar Kilo Mike November Mike
+QTR730 : Qatari Seven Three Zero
+SWT3KT : Swift Three Kilo Tango
+TAY4089 : Quality Four Zero Eight Nine
+THY32B : Turkish Three Two Bravo
+TIE810F : Time Air Eight One Zero Foxtrot
+TVS5AD : Sky Travel Five Alfa Delta
+WZZ4918 : Wizzair Four Nine One Eight
+WZZ92 : Wizzair Nine Two
+
+

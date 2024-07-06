@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0.11</start>
+		<end>3.62</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO tower</speaker_label>
+		<text>Stefanik tower [NE Slovak] pekné popoludnie [/NE] Tatra Six One Three establish ILS three one</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>3.76</start>
+		<end>12.85</end>
+		<speaker>B</speaker>
+		<speaker_label>TTJ613</speaker_label>
+		<text>Tatra Six One Three [NE Slovak] dobré popoludnie [/NE] Stefanik tower runway three one cleared to land wind three zero zero degrees one niner knots maximum three three knots</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>13.06</start>
+		<end>15.63</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO tower</speaker_label>
+		<text>runway [hes] three one clear to land Tatra Six One Three</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>15.76</start>
+		<end>18.35</end>
+		<speaker>B</speaker>
+		<speaker_label>TTJ613</speaker_label>
+		<text>[noise] and after landing vacate via delta</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>18.52</start>
+		<end>20.01</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO tower</speaker_label>
+		<text>after landing via delta Six One Three</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

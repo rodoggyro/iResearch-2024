@@ -1,0 +1,29 @@
+airport: LKPR (Praha Ruzyne)
+channel: Radar
+frequency: 120.520MHz
+UTC time: 2020-10-26 20:50:56
+coordinates: 50.1028697N, 14.2623153E
+manual: https://aim.rlp.cz/vfrmanual/actual/lkpr_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_voc.jpg
+hs: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_hs.jpg
+pdc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_pdc.jpg
+waypoints nearby: AKEVA ARVEG BAGRU BAROX BAVIN BEKVI ELMEK ELPON ERASU EVEMI KENOK KUVIX LETNA RATEV RISUK SOMIS SULOV TIPRU UTORO
+callsigns nearby:
+BAW689 : Speedbird Six Eight Nine
+DLH6HF : Lufthansa Six Hotel Foxtrot
+DLH7VA : Lufthansa Seven Victor Alfa
+FNK2 : Aurika Two
+FRF201 : Fairfleet Two Zero One
+GAC404L : Dream Team Four Zero Four Lima
+KLM73W : Klm Seven Three Whiskey
+RRR2705 : Ascot/kittyhawk Two Seven Zero Five
+RYR14QH : Ryan Air One Four Quebec Hotel
+RYR679 : Ryan Air Six Seven Nine
+RYR8CA : Ryan Air Eight Charlie Alfa
+SXS8F : Sunexpress Eight Foxtrot
+UPS295 : Ups Two Nine Five
+WZZ5420 : Wizzair Five Four Two Zero
+WZZ8922 : Wizzair Eight Nine Two Two
+
+

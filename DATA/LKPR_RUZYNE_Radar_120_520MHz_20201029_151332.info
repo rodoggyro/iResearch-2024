@@ -1,0 +1,46 @@
+airport: LKPR (Praha Ruzyne)
+channel: Radar
+frequency: 120.520MHz
+UTC time: 2020-10-29 15:13:32
+coordinates: 50.1028697N, 14.2623153E
+manual: https://aim.rlp.cz/vfrmanual/actual/lkpr_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_voc.jpg
+hs: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_hs.jpg
+pdc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_pdc.jpg
+waypoints nearby: AKEVA ARVEG BAGRU BAROX BAVIN BEKVI ELMEK ELPON ERASU EVEMI KENOK KUVIX LETNA RATEV RISUK SOMIS SULOV TIPRU UTORO
+callsigns nearby:
+AFL2013 : Aeroflot Two Zero One Three
+AFR108Z : Air France One Zero Eight Zulu
+AFR10BE : Air France One Zero Bravo Echo
+AZE43L : Arcusair Four Three Lima
+CSA1DZ : Csa / Czech One Delta Zulu
+CSA6KG : Csa / Czech Six Kilo Golf
+DLH1937 : Lufthansa One Nine Three Seven
+DLH6YW : Lufthansa Six Yankee Whiskey
+EJU84CB : Alpine Eight Four Charlie Bravo
+K01 :  Kilo Zero One
+LOT521 : Lot Five Two One
+MSALT : Mistral Wings Lima Tango
+OEFEB :  Oscar Echo Foxtrot Echo Bravo
+OKACT : Okayjet Charlie Tango
+OKALY : Okayjet Lima Yankee
+OKBAL :  Oscar Kilo Bravo Alfa Lima
+OKFRO :  Oscar Kilo Foxtrot Romeo Oscar
+OKMDH :  Oscar Kilo Mike Delta Hotel
+OKMHZ :  Oscar Kilo Mike Hotel Zulu
+OKMMI :  Oscar Kilo Mike Mike India
+OKPRM : Okapi Romeo Mike
+RYR101 : Ryan Air One Zero One
+RYR6TN : Ryan Air Six Tango November
+SVW72VP : Silver Arrow Seven Two Victor Papa
+THY5AG : Turkish Five Alfa Golf
+THY6591 : Turkish Six Five Nine One
+TIE804P : Time Air Eight Zero Four Papa
+TVF4038 : France Soleil Four Zero Three Eight
+TVF43EP : France Soleil Four Three Echo Papa
+TVS6AD : Sky Travel Six Alfa Delta
+UAE18 : Emirates One Eight
+WZZ2184 : Wizzair Two One Eight Four
+
+

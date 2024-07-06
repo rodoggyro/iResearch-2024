@@ -1,0 +1,61 @@
+airport: LKPR (Praha Ruzyne)
+channel: Radar
+frequency: 120.520MHz
+UTC time: 2020-10-25 14:09:29
+coordinates: 50.1028697N, 14.2623153E
+manual: https://aim.rlp.cz/vfrmanual/actual/lkpr_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_voc.jpg
+hs: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_hs.jpg
+pdc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_pdc.jpg
+waypoints nearby: AKEVA ARVEG BAGRU BAROX BAVIN BEKVI ELMEK ELPON ERASU EVEMI KENOK KUVIX LETNA RATEV RISUK SOMIS SULOV TIPRU UTORO
+callsigns nearby:
+OKLBA : Oklahoma Bravo Alfa
+PGT302 : Sun Turk Three Zero Two
+EZS93AV : Topswiss Nine Three Alfa Victor
+WZZ9654 : Wizzair Nine Six Five Four
+TAP1244 : Air Portugal One Two Four Four
+QTR8005 : Qatari Eight Zero Zero Five
+PGT1527 : Sun Turk One Five Two Seven
+DHK547 : World Express Five Four Seven
+RYR73AH : Ryan Air Seven Three Alfa Hotel
+DLH6YW : Lufthansa Six Yankee Whiskey
+OKOUU37 :  Oscar Kilo Oscar Uniform Uniform Three Seven
+AFR10BE : Air France One Zero Bravo Echo
+RYR2YK : Ryan Air Two Yankee Kilo
+SDR4272 : Sundair Four Two Seven Two
+OKLLZ : Oklahoma Lima Zulu
+TRA6868 : Transavia Six Eight Six Eight
+UAE139 : Emirates One Three Nine
+OKDKB :  Oscar Kilo Delta Kilo Bravo
+CSA2DZ : Csa / Czech Two Delta Zulu
+RRR4941 : Ascot/kittyhawk Four Nine Four One
+DEBLN : Debonair Lima November
+OKPMP : Okapi Mike Papa
+LZB301 : Flying Bulgaria Three Zero One
+BRU862 : Belarus Avia Eight Six Two
+PGT76A : Sun Turk Seven Six Alfa
+OKMHZ :  Oscar Kilo Mike Hotel Zulu
+RYR2122 : Ryan Air Two One Two Two
+DLH4RM : Lufthansa Four Romeo Mike
+OKAVK : Okayjet Victor Kilo
+OKWYZ :  Oscar Kilo Whiskey Yankee Zulu
+BLA1RK : All Charter One Romeo Kilo
+OKHBT :  Oscar Kilo Hotel Bravo Tango
+CSA6KG : Csa / Czech Six Kilo Golf
+OKXAI04 :  Oscar Kilo X-ray Alfa India Zero Four
+AFR108Z : Air France One Zero Eight Zulu
+OKYAI14 :  Oscar Kilo Yankee Alfa India One Four
+RYR5XL : Ryan Air Five X-ray Lima
+UAE140 : Emirates One Four Zero
+OKUUR14 :  Oscar Kilo Uniform Uniform Romeo One Four
+OKKEA :  Oscar Kilo Kilo Echo Alfa
+EWG7AB : Eurowings Seven Alfa Bravo
+EWG7677 : Eurowings Seven Six Seven Seven
+CSA94D : Csa / Czech Nine Four Delta
+OKSOL :  Oscar Kilo Sierra Oscar Lima
+OKHSI :  Oscar Kilo Hotel Sierra India
+SFS80 : Topo Eight Zero
+OKTOP : Soko Air Oscar Papa
+
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0.13</start>
+		<end>5.16</end>
+		<speaker>D</speaker>
+		<speaker_label>N716AS</speaker_label>
+		<text>[#unnamed]Sion[/#unnamed] [#callsign]November[/#callsign] [#callsign]Seven[/#callsign] [#callsign]One[/#callsign] [#callsign]Six[/#callsign] [#callsign]Alpha[/#callsign] [#callsign]Sierra[/#callsign] [#unnamed]Alpine[/#unnamed] [#unnamed]jet[/#unnamed] [#unnamed]ready[/#unnamed] [#unnamed]for[/#unnamed] [#unnamed]taxi[/#unnamed]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>5.98</start>
+		<end>8.5</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO Ground</speaker_label>
+		<text>[#callsign]November[/#callsign] [#callsign]Alpha[/#callsign] [#callsign]Sierra [/#callsign] [#unnamed]taxi[/#unnamed] [#unnamed]to[/#unnamed] [#value]holding[/#value] [#value]point[/#value] [#value] delta[/#value]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>9.05</start>
+		<end>11.96</end>
+		<speaker>D</speaker>
+		<speaker_label>N716AS</speaker_label>
+		<text>[#value]holding[/#value] [#value]point[/#value] [#callsign] November[/#callsign] [#callsign]Seven[/#callsign] [#callsign]One[/#callsign] [#callsign]Six[/#callsign] [#callsign]Alpha[/#callsign] [#callsign]Sierra[/#callsign]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

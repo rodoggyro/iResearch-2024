@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0.28</start>
+		<end>8.48</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO Ground</speaker_label>
+		<text>[#callsign]Papa[/#callsign] [#callsign]Mike[/#callsign] [#command]parking[/#command] [#command]is[/#command] [#value]tango[/#value] [#value]one[/#value] [#value]zero[/#value] [#unnamed]but[/#unnamed] [#unnamed]it[/#unnamed] [#unnamed]is[/#unnamed] [#unnamed]with[/#unnamed] [#unnamed]the[/#unnamed] [#unnamed]knots[/#unnamed] [#unnamed]facing[/#unnamed] [#unnamed]to[/#unnamed] [#unnamed]the[/#unnamed] [#unnamed]east[/#unnamed] [#unnamed]so[/#unnamed] [#unnamed]if[/#unnamed] [#unnamed]able[/#unnamed] [#command]make[/#command] [#value]one[/#value] [#value]eighty[/#value] [#command]and[/#command] [#command]to[/#command] [#command]park[/#command] [#value]back[/#value] [#value]at[/#value] [#value]parking[/#value] [#value]one[/#value] [#value]zero[/#value]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

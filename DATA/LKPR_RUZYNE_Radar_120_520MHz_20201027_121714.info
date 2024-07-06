@@ -1,0 +1,52 @@
+airport: LKPR (Praha Ruzyne)
+channel: Radar
+frequency: 120.520MHz
+UTC time: 2020-10-27 12:17:14
+coordinates: 50.1028697N, 14.2623153E
+manual: https://aim.rlp.cz/vfrmanual/actual/lkpr_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_voc.jpg
+hs: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_hs.jpg
+pdc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_pdc.jpg
+waypoints nearby: AKEVA ARVEG BAGRU BAROX BAVIN BEKVI ELMEK ELPON ERASU EVEMI KENOK KUVIX LETNA RATEV RISUK SOMIS SULOV TIPRU UTORO
+callsigns nearby:
+DLH9TP : Lufthansa Nine Tango Papa
+OKMDH :  Oscar Kilo Mike Delta Hotel
+DLH6LL : Lufthansa Six Lima Lima
+QTR6BL : Qatari Six Bravo Lima
+TVS4378 : Sky Travel Four Three Seven Eight
+BTI630 : Air Baltic Six Three Zero
+SUA672 : Air Silesia Six Seven Two
+RYR5YJ : Ryan Air Five Yankee Juliett
+NATO40 : Mass Air Oscar Four Zero
+OKYUS45 :  Oscar Kilo Yankee Uniform Sierra Four Five
+THY5BX : Turkish Five Bravo X-ray
+OKYUR99 :  Oscar Kilo Yankee Uniform Romeo Nine Nine
+RYR5FP : Ryan Air Five Foxtrot Papa
+BAW855 : Speedbird Eight Five Five
+SUA671 : Air Silesia Six Seven One
+UAE9936 : Emirates Nine Nine Three Six
+CSA2DZ : Csa / Czech Two Delta Zulu
+OKTOC : Soko Air Oscar Charlie
+PGT76A : Sun Turk Seven Six Alfa
+OKMHZ :  Oscar Kilo Mike Hotel Zulu
+DLH4RM : Lufthansa Four Romeo Mike
+OKDSV :  Oscar Kilo Delta Sierra Victor
+AEE6RW : Aegean Six Romeo Whiskey
+DLH5UY : Lufthansa Five Uniform Yankee
+OKBYA :  Oscar Kilo Bravo Yankee Alfa
+TIE783Y : Time Air Seven Eight Three Yankee
+SUA771 : Air Silesia Seven Seven One
+OKBAL :  Oscar Kilo Bravo Alfa Lima
+BRO21 : Broadsword Two One
+OKPRM : Okapi Romeo Mike
+KLM44K : Klm Four Four Kilo
+BLA4AP : All Charter Four Alfa Papa
+BAW854 : Speedbird Eight Five Four
+THY6289 : Turkish Six Two Eight Nine
+SDR4193 : Sundair Four One Nine Three
+DUKE36 : Lion King Echo Three Six
+AWC941 : Zap Nine Four One
+CSA918 : Csa / Czech Nine One Eight
+
+

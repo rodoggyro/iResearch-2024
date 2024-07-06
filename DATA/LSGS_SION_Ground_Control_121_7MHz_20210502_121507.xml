@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0.17</start>
+		<end>5.91</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO Ground</speaker_label>
+		<text>[#callsign]November[/#callsign] [#callsign]Hotel[/#callsign] [#callsign]Juliett[/#callsign] [#unnamed]the[/#unnamed] [#unnamed]preceding[/#unnamed] [#unnamed]traffic[/#unnamed] [#unnamed]is[/#unnamed] [#unnamed]joining[/#unnamed] [#unnamed]downwind[/#unnamed] [#unnamed]wind[/#unnamed] [#value]one[/#value] [#unnamed]correction[/#unnamed] [#value]two[/#value] [#value]six[/#value] [#value]zero[/#value] [#value]degrees[/#value]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>5.92</start>
+		<end>10.74</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO Ground</speaker_label>
+		<text>[#value]one[/#value] [#value]nine[/#value] [#value]knots[/#value] [#value]runway[/#value] [#value]two[/#value] [#value]five[/#value] [#command]cleared[/#command] [#command]for[/#command] [#command]takeoff[/#command] [#command]report[/#command] [#value]passing[/#value] [#value]one[/#value] [#value]three[/#value] [#value]thousand[/#value] [#value]feet[/#value] [#command]and[/#command] [#command]climb[/#command]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

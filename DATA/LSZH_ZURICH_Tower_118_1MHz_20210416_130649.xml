@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0.17</start>
+		<end>6.51</end>
+		<speaker>D</speaker>
+		<speaker_label>UNK-1</speaker_label>
+		<text>[#callsign]Hotel[/#callsign] [#callsign]Bravo[/#callsign] [#callsign]Papa[/#callsign] [#callsign]Hotel[/#callsign] [#callsign]Delta[/#callsign] [#value]unknown[/#value] [#value]VFR[/#value] [#value]traffic[/#value] [#value]without[/#value] [#value]altitude[/#value] [#value]indications[/#value] [#value]twelve[/#value] [#value]o'clock[/#value] [#value]two[/#value] [#value]miles[/#value] [#value]crossing[/#value] [#value]left[/#value] [#value]to[/#value] [#value]right[/#value]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

@@ -1,0 +1,192 @@
+airport: YSSY (Sydney)
+channel: Tower
+frequency: 120.5MHz
+UTC time: 2021-05-04 06:50:16
+coordinates: 33.9461S, 151.177222E
+manual: https://www.airservicesaustralia.com/aip/current/dap/AeroProcChartsTOC.htm
+waypoints nearby: ABBEY ANKUB ATRET BEROW BIGEM BIKUS BOBIG BOOGI BUVLO CLIFF COONY CORDO DALAR DEENA DIPPA DUDOK DUMOP DUNES ENDEV ENKAS ENTRA FISHA GOMUB HALAS HOOKS IGALA ISMER JAKLN JELLI JENTL JULIA KABLO KAMBA KAMPI KEVIN LANOL LISHA MAJAR MANFA MARKY MARUB MITSA NASHO NESSY NOBAR NOLEM OLSOG OVILS PEBRA PEGBA POSTY PRAWN RAKSO RENAM RISOL SBKWA SBKWB SBKWF SBKWH SBKWI SBKWM SCNWF SCNWH SCNWM SHORE SOSIJ SRIEA SRIEB SRIEF SRIEH SRIEI SRIEM SRIWF SRIWG SRIWH SRIWI SRIWM SSYEF SSYEH SSYEM SSYNF SSYNH SSYNI SSYNM SSYSF SSYSH SSYSM SSYWF SSYWH SSYWM SUZAN SYDNF SYDNH SYDNM SYDSF SYDSH SYDSM SYRBB SYRCC SYRDD SYRFF SYRGG TAMMI TESAT TONTO TONUX URDEN UXAMA VENUL VIDIK VOSSI WHALE WOLNA WOLNC WOLND WOLNF WOLNI ZONKA
+callsigns nearby:
+AE272 : Alpha Echo Two Seven Two 
+AE911 : Alpha Echo Nine One One 
+AM258 : Alpha Mike Two Five Eight 
+AM277 : Alpha Mike Two Seven Seven 
+AM288 : Alpha Mike Two Eight Eight 
+ANZ109 : New Zealand One Zero Nine 
+ANZ229 : New Zealand Two Two Nine 
+ANZ231 : New Zealand Two Three One 
+ANZ248 : New Zealand Two Four Eight 
+ASY018 : Aussie Zero One Eight 
+BSMN45 : Bravo Sierra Mike November Four Five 
+BSMN47 : Bravo Sierra Mike November Four Seven 
+BSMN81 : Bravo Sierra Mike November Eight One 
+CAL051 : Dynasty Zero Five One 
+CAL055 : Dynasty Zero Five Five 
+CCA613 : Air China Six One Three 
+CES7792 : China Eastern Seven Seven Nine Two 
+CFH21 : Care Flight Two One 
+CFH23 : Care Flight Two Three 
+CSN301 : China Southern Three Zero One 
+DDB : Delta Delta Bravo 
+FD284 : Foxtrot Delta Two Eight Four 
+FDX77 : Fedex Seven Seven 
+JST207 : Jetstar Two Zero Seven 
+JST414 : Jetstar Four One Four 
+JST415 : Jetstar Four One Five 
+JST418 : Jetstar Four One Eight 
+JST423 : Jetstar Four Two Three 
+JST424 : Jetstar Four Two Four 
+JST460 : Jetstar Four Six Zero 
+JST461 : Jetstar Four Six One 
+JST518 : Jetstar Five One Eight 
+JST519 : Jetstar Five One Nine 
+JST520 : Jetstar Five Two Zero 
+JST522 : Jetstar Five Two Two 
+JST523 : Jetstar Five Two Three 
+JST606 : Jetstar Six Zero Six 
+JST607 : Jetstar Six Zero Seven 
+JST661 : Jetstar Six Six One 
+JST696 : Jetstar Six Nine Six 
+JST720 : Jetstar Seven Two Zero 
+JST725 : Jetstar Seven Two Five 
+JST768 : Jetstar Seven Six Eight 
+JST791 : Jetstar Seven Nine One 
+JST821 : Jetstar Eight Two One 
+JST827 : Jetstar Eight Two Seven 
+JST841 : Jetstar Eight Four One 
+MAS6205 : Malaysian Six Two Zero Five 
+MJI : Mike Juliett India 
+NPD : November Papa Delta 
+NSQ : November Sierra Quebec 
+PE216 : Papa Echo Two One Six 
+PE825 : Papa Echo Eight Two Five 
+PKAR06 : Pakistan Airway Romeo Zero Six 
+QFA122 : Qantas One Two Two 
+QFA146 : Qantas One Four Six 
+QFA164 : Qantas One Six Four 
+QFA448 : Qantas Four Four Eight 
+QFA450 : Qantas Four Five Zero 
+QFA454 : Qantas Four Five Four 
+QFA455 : Qantas Four Five Five 
+QFA458 : Qantas Four Five Eight 
+QFA459 : Qantas Four Five Nine 
+QFA462 : Qantas Four Six Two 
+QFA463 : Qantas Four Six Three 
+QFA466 : Qantas Four Six Six 
+QFA467 : Qantas Four Six Seven 
+QFA470 : Qantas Four Seven Zero 
+QFA471 : Qantas Four Seven One 
+QFA474 : Qantas Four Seven Four 
+QFA475 : Qantas Four Seven Five 
+QFA479 : Qantas Four Seven Nine 
+QFA483 : Qantas Four Eight Three 
+QFA532 : Qantas Five Three Two 
+QFA536 : Qantas Five Three Six 
+QFA537 : Qantas Five Three Seven 
+QFA540 : Qantas Five Four Zero 
+QFA541 : Qantas Five Four One 
+QFA542 : Qantas Five Four Two 
+QFA544 : Qantas Five Four Four 
+QFA545 : Qantas Five Four Five 
+QFA597 : Qantas Five Nine Seven 
+QFA644 : Qantas Six Four Four 
+QFA651 : Qantas Six Five One 
+QFA740 : Qantas Seven Four Zero 
+QFA741 : Qantas Seven Four One 
+QFA743 : Qantas Seven Four Three 
+QFA745 : Qantas Seven Four Five 
+QFA7586 : Qantas Seven Five Eight Six 
+QFA841 : Qantas Eight Four One 
+QFA923 : Qantas Nine Two Three 
+QJE1507 : Qjet One Five Zero Seven 
+QJE1570 : Qjet One Five Seven Zero 
+QJE1571 : Qjet One Five Seven One 
+QJE1788 : Qjet One Seven Eight Eight 
+QJE1904 : Qjet One Nine Zero Four 
+QLK11 : Qlink One One 
+QLK12 : Qlink One Two 
+QLK164D : Qlink One Six Four Delta 
+QLK165D : Qlink One Six Five Delta 
+QLK192 : Qlink One Nine Two 
+QLK213D : Qlink Two One Three Delta 
+QLK214D : Qlink Two One Four Delta 
+QLK229D : Qlink Two Two Nine Delta 
+QLK230D : Qlink Two Three Zero Delta 
+QLK261 : Qlink Two Six One 
+QLK30 : Qlink Three Zero 
+QLK31 : Qlink Three One 
+QLK401 : Qlink Four Zero One 
+QLK407 : Qlink Four Zero Seven 
+QLK42D : Qlink Four Two Delta 
+QLK443D : Qlink Four Four Three Delta 
+QLK448D : Qlink Four Four Eight Delta 
+QLK453D : Qlink Four Five Three Delta 
+QLK46D : Qlink Four Six Delta 
+QLK47D : Qlink Four Seven Delta 
+QLK60D : Qlink Six Zero Delta 
+QLK6D : Qlink Six Delta 
+QLK710 : Qlink Seven One Zero 
+QLK7D : Qlink Seven Delta 
+QTR6TP : Qatari Six Tango Papa 
+RSCU208 : Tarascas Uniform Two Zero Eight 
+RXA145 : Rex One Four Five 
+RXA152 : Rex One Five Two 
+RXA1834 : Rex One Eight Three Four 
+RXA1835 : Rex One Eight Three Five 
+RXA1836 : Rex One Eight Three Six 
+RXA1837 : Rex One Eight Three Seven 
+RXA551 : Rex Five Five One 
+RXA6134 : Rex Six One Three Four 
+RXA6178 : Rex Six One Seven Eight 
+RXA6179 : Rex Six One Seven Nine 
+RXA6374 : Rex Six Three Seven Four 
+RXA6375 : Rex Six Three Seven Five 
+RXA6437 : Rex Six Four Three Seven 
+RXA6472 : Rex Six Four Seven Two 
+RXA6473 : Rex Six Four Seven Three 
+RXA6674 : Rex Six Six Seven Four 
+RXA6774 : Rex Six Seven Seven Four 
+RXA6783 : Rex Six Seven Eight Three 
+RXA6982 : Rex Six Nine Eight Two 
+SIA211 : Singapore Two One One 
+SIA222 : Singapore Two Two Two 
+SIA7298 : Singapore Seven Two Nine Eight 
+TAZ : Tango Alpha Zulu 
+UAE2667 : Emirates Two Six Six Seven 
+UAE9242 : Emirates Nine Two Four Two 
+UAE9822 : Emirates Nine Eight Two Two 
+UJS : Uniform Juliett Sierra 
+UYX : Uniform Yankee X-ray 
+VLW : Victor Lima Whiskey 
+VNX : Vance 
+VOZ1282 : Velocity One Two Eight Two 
+VOZ1418 : Velocity One Four One Eight 
+VOZ1535 : Velocity One Five Three Five 
+VOZ428 : Velocity Four Two Eight 
+VOZ429 : Velocity Four Two Nine 
+VOZ526 : Velocity Five Two Six 
+VOZ527 : Velocity Five Two Seven 
+VOZ528 : Velocity Five Two Eight 
+VOZ535 : Velocity Five Three Five 
+VOZ536 : Velocity Five Three Six 
+VOZ539 : Velocity Five Three Nine 
+VOZ565 : Velocity Five Six Five 
+VOZ846 : Velocity Eight Four Six 
+VOZ849 : Velocity Eight Four Nine 
+VOZ853 : Velocity Eight Five Three 
+VOZ858 : Velocity Eight Five Eight 
+VOZ859 : Velocity Eight Five Nine 
+VOZ863 : Velocity Eight Six Three 
+VOZ866 : Velocity Eight Six Six 
+VOZ870 : Velocity Eight Seven Zero 
+VOZ874 : Velocity Eight Seven Four 
+VOZ946 : Velocity Nine Four Six 
+VOZ957 : Velocity Nine Five Seven 
+VOZ962 : Velocity Nine Six Two 
+VOZ965 : Velocity Nine Six Five 
+VOZ970 : Velocity Nine Seven Zero 
+VOZ973 : Velocity Nine Seven Three 
+VSZ : Victor Sierra Zulu 
+WIO : Whiskey India Oscar 
+ZZD : Zulu Zulu Delta 
+
+

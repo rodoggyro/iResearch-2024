@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0</start>
+		<end>4.78</end>
+		<speaker>B</speaker>
+		<speaker_label>TVS432P</speaker_label>
+		<text>Radar [NE Czech] dobre odpoledne [/NE] [#callsign]Sky[/#callsign] [#callsign]Travel[/#callsign] [#callsign]Four[/#callsign] [#callsign]Three[/#callsign] [#callsign]Two[/#callsign] [#callsign]Papa[/#callsign] passing nineteen hundred climbing to five thousand</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>4.96</start>
+		<end>11.32</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO radar</speaker_label>
+		<text>[#callsign]Sky[/#callsign] [#callsign]Travel[/#callsign] [#callsign]Four[/#callsign] [#callsign]Three[/#callsign] [#callsign]Two[/#callsign] [#callsign]Papa[/#callsign] [NE Czech] dobre odpoledne [/NE] Praha Radar identified climb flight level one six zero</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>11.32</start>
+		<end>14.24</end>
+		<speaker>B</speaker>
+		<speaker_label>TVS432P</speaker_label>
+		<text>climb to flight level one six zero [#callsign]Sky[/#callsign] [#callsign]Travel[/#callsign] [#callsign]Four[/#callsign] [#callsign]Three[/#callsign] [#callsign]Two[/#callsign] [#callsign]Papa[/#callsign]</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

@@ -1,0 +1,38 @@
+airport: LKPR (Praha Ruzyne)
+channel: Tower
+frequency: 134.560MHz
+UTC time: 2020-10-25 20:48:09
+coordinates: 50.1028697N, 14.2623153E
+manual: https://aim.rlp.cz/vfrmanual/actual/lkpr_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_voc.jpg
+hs: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_hs.jpg
+pdc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_pdc.jpg
+waypoints nearby: AKEVA ARVEG BAGRU BAROX BAVIN BEKVI ELMEK ELPON ERASU EVEMI KENOK KUVIX LETNA RATEV RISUK SOMIS SULOV TIPRU UTORO
+callsigns nearby:
+ABR1482 : Contract One Four Eight Two
+BCS5130 : Eurotrans Five One Three Zero
+BOH713 : Bohemia Seven One Three
+CSA509 : Csa / Czech Five Zero Nine
+DLH8HR : Lufthansa Eight Hotel Romeo
+EAT421 : Trans Europe Four Two One
+EJU5850 : Alpine Five Eight Five Zero
+EJU61VY : Alpine Six One Victor Yankee
+EJU7907 : Alpine Seven Nine Zero Seven
+ELJ501 : Topjet Five Zero One
+EWG1ZN : Eurowings One Zulu November
+EXS516 : Channex Five One Six
+KLM79G : Klm Seven Nine Golf
+OKBYE :  Oscar Kilo Bravo Yankee Echo
+OKPHM : Okapi Hotel Mike
+QTR8232 : Qatari Eight Two Three Two
+RYR2014 : Ryan Air Two Zero One Four
+SDR4273 : Sundair Four Two Seven Three
+SDR4579 : Sundair Four Five Seven Nine
+SWR165V : Swiss One Six Five Victor
+THY7872 : Turkish Seven Eight Seven Two
+TIE745Y : Time Air Seven Four Five Yankee
+TVF4038 : France Soleil Four Zero Three Eight
+TVF43EP : France Soleil Four Three Echo Papa
+
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<segment>
+		<start>0.16</start>
+		<end>4.88</end>
+		<speaker>B</speaker>
+		<speaker_label>SWR197</speaker_label>
+		<text>Tower [NE-German] guten morgen [/NE] Swiss One Nine Seven heavy RNP one four established</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+	<segment>
+		<start>5.32</start>
+		<end>15.19</end>
+		<speaker>A</speaker>
+		<speaker_label>ATCO tower</speaker_label>
+		<text>Swiss One Nine Seven Tower [NE-German]guten morgen[/NE] wind zero eight zero degrees one two knots gusting one nine runway one four cleared to land vacate hotel two</text>
+		<tags>
+			<correct>0</correct>
+			<correct_transcript>1</correct_transcript>
+			<correct_tagging>0</correct_tagging>
+			<non_english>0</non_english>
+		</tags>
+	</segment>
+</data>

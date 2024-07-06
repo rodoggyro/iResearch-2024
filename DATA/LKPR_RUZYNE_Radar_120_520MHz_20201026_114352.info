@@ -1,0 +1,57 @@
+airport: LKPR (Praha Ruzyne)
+channel: Radar
+frequency: 120.520MHz
+UTC time: 2020-10-26 11:43:52
+coordinates: 50.1028697N, 14.2623153E
+manual: https://aim.rlp.cz/vfrmanual/actual/lkpr_text_en.html
+adc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_adc.jpg
+vfrc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_voc.jpg
+hs: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_hs.jpg
+pdc: https://aim.rlp.cz/vfrmanual/actual/ad/lkpr_pdc.jpg
+waypoints nearby: AKEVA ARVEG BAGRU BAROX BAVIN BEKVI ELMEK ELPON ERASU EVEMI KENOK KUVIX LETNA RATEV RISUK SOMIS SULOV TIPRU UTORO
+callsigns nearby:
+2MRGT :  Two Mike Romeo Golf Tango
+AUA89 : Austrian Airlines Eight Nine
+BAW697V : Speedbird Six Nine Seven Victor
+BAW854 : Speedbird Eight Five Four
+BAW855 : Speedbird Eight Five Five
+BLA200 : All Charter Two Zero Zero
+CSA2DZ : Csa / Czech Two Delta Zulu
+CSA918 : Csa / Czech Nine One Eight
+DFC85T : Dark Blue Eight Five Tango
+DLH3NL : Lufthansa Three November Lima
+DLH5UY : Lufthansa Five Uniform Yankee
+DLH9TP : Lufthansa Nine Tango Papa
+EJU94YT : Alpine Nine Four Yankee Tango
+FWWZZ :  Foxtrot Whiskey Whiskey Zulu Zulu
+FYL62CB : Flyinglux Six Two Charlie Bravo
+HUAF343 : Humber Air Foxtrot Three Four Three
+IRA733 : Iranair Seven Three Three
+LOT4MT : Lot Four Mike Tango
+LOT5RW : Lot Five Romeo Whiskey
+OEFDI :  Oscar Echo Foxtrot Delta India
+OEGWV : Orienteagle Whiskey Victor
+OKACT : Okayjet Charlie Tango
+OKKEA :  Oscar Kilo Kilo Echo Alfa
+OKPHM : Okapi Hotel Mike
+OKPRM : Okapi Romeo Mike
+OKTOP : Soko Air Oscar Papa
+OKWUR38 :  Oscar Kilo Whiskey Uniform Romeo Three Eight
+OKYAI14 :  Oscar Kilo Yankee Alfa India One Four
+QTR3AU : Qatari Three Alfa Uniform
+QTR6BL : Qatari Six Bravo Lima
+QTR7GU : Qatari Seven Golf Uniform
+ROT362M : Tarom Three Six Two Mike
+RYR1BA : Ryan Air One Bravo Alfa
+RYR1JU : Ryan Air One Juliett Uniform
+RYR6842 : Ryan Air Six Eight Four Two
+RYR6TN : Ryan Air Six Tango November
+SWR165V : Swiss One Six Five Victor
+TIE784Y : Time Air Seven Eight Four Yankee
+TVS35J : Sky Travel Three Five Juliett
+VEGA24 : Aerovega Alfa Two Four
+VLG8653 : Vueling Eight Six Five Three
+VLG86TM : Vueling Eight Six Tango Mike
+WZZ1CE : Wizzair One Charlie Echo
+
+
