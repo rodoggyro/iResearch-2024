@@ -1,8 +1,4 @@
 nltk
-scikit-learn
 pandas
-datasets
-transformers
-pydub
 matplotlib
-numpy
+bs4
