@@ -7,3 +7,5 @@ html5lib
 transformers
 datasets
 torch
+torchaudio
+pyctcdecodeo
