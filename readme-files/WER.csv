@@ -1,121 +1,121 @@
 modelName,WER
-openai/whisper-large-v3,0.0
-openai/whisper-large-v2,0.0
+openai/whisper-large-v3,more accurate
+openai/whisper-large-v2,"= load(""wer"")"
 facebook/seamless-m4t-v2-large,0.0
 facebook/seamless-m4t-large,0.0
-distil-whisper/distil-large-v2,0.0
-openai/whisper-large,0.0
-jonatasgrosman/wav2vec2-large-xlsr-53-english,0.0
-facebook/wav2vec2-base-960h,0.0
-nvidia/canary-1b,0.0
-openai/whisper-tiny,0.0
+distil-whisper/distil-large-v2,↓ | long-form
+openai/whisper-large,"= load(""wer"")"
+jonatasgrosman/wav2vec2-large-xlsr-53-english,(+lm)
+facebook/wav2vec2-base-960h,""", wer(result[""text""], result[""transcription""]))"
+nvidia/canary-1b,(en)
+openai/whisper-tiny,"= load(""wer"")"
 guillaumekln/faster-whisper-large-v2,0.0
 Systran/faster-whisper-large-v3,0.0
-openai/whisper-medium,0.0
-openai/whisper-small,0.0
-openai/whisper-base,0.0
-distil-whisper/distil-large-v3,0.0
-facebook/wav2vec2-large-960h-lv60-self,0.0
+openai/whisper-medium,"= load(""wer"")"
+openai/whisper-small,"= load(""wer"")"
+openai/whisper-base,"= load(""wer"")"
+distil-whisper/distil-large-v3,of large-v3 on long-form audio using both the sequential 
+facebook/wav2vec2-large-960h-lv60-self,""", wer(result[""text""], result[""transcription""]))"
 facebook/seamless-m4t-medium,0.0
-distil-whisper/distil-medium.en,0.0
-nvidia/parakeet-rnnt-1.1b,0.0
+distil-whisper/distil-medium.en,↓ | long-form
+nvidia/parakeet-rnnt-1.1b,numbers without external lm. more details on evaluation can be found at [huggingface asr leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)
 facebook/mms-1b-all,0.0
-openai/whisper-tiny.en,0.0
-distil-whisper/distil-small.en,0.0
-nvidia/parakeet-tdt-1.1b,0.0
-facebook/hubert-large-ls960-ft,0.0
+openai/whisper-tiny.en,"= load(""wer"")"
+distil-whisper/distil-small.en,results:
+nvidia/parakeet-tdt-1.1b,numbers without external lm. more details on evaluation can be found at [huggingface asr leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)
+facebook/hubert-large-ls960-ft,reduction on the more challenging dev-other and test-other evaluation subsets.
 nvidia/stt_en_conformer_transducer_xlarge,0.0
-openai/whisper-medium.en,0.0
+openai/whisper-medium.en,"= load(""wer"")"
 bababababooey/faster-whisper-large-v3,0.0
 guillaumekln/faster-whisper-medium,0.0
 tsinghua-ee/SALMONN,0.0
 voidful/wav2vec2-xlsr-multilingual-56,0.0
 nvidia/stt_en_conformer_ctc_large,0.0
 vitouphy/wav2vec2-xls-r-300m-timit-phoneme,0.0
-openai/whisper-small.en,0.0
+openai/whisper-small.en,"= load(""wer"")"
 tsinghua-ee/SALMONN-7B,0.0
 ivrit-ai/whisper-large-v2-tuned,0.0
-facebook/s2t-small-librispeech-asr,0.0
-openai/whisper-base.en,0.0
+facebook/s2t-small-librispeech-asr,""", wer.compute(predictions=result[""transcription""], references=result[""text""]))"
+openai/whisper-base.en,"= load(""wer"")"
 facebook/mms-1b-fl102,0.0
 Systran/faster-whisper-large-v2,0.0
-facebook/wav2vec2-large-960h,0.0
+facebook/wav2vec2-large-960h,""", wer(result[""text""], result[""transcription""]))"
 nvidia/stt_en_fastconformer_transducer_xlarge,0.0
 speechbrain/m-ctc-t-large,0.0
-nvidia/parakeet-ctc-1.1b,0.0
+nvidia/parakeet-ctc-1.1b,numbers without external lm. more details on evaluation can be found at [huggingface asr leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)
 versae/whisper-large-v3,0.0
 facebook/wav2vec2-large-robust-ft-swbd-300h,0.0
 NbAiLab/nb-whisper-large,0.0
 NbAiLab/nb-whisper-small-beta,0.0
 facebook/wav2vec2-xls-r-2b-22-to-16,0.0
 Systran/faster-distil-whisper-large-v3,0.0
-facebook/hubert-xlarge-ls960-ft,0.0
+facebook/hubert-xlarge-ls960-ft,reduction on the more challenging dev-other and test-other evaluation subsets.
 nvidia/stt_en_fastconformer_transducer_xxlarge,0.0
-distil-whisper/distil-large-v3-ggml,0.0
-OthmaneJ/distil-wav2vec2,0.0
-facebook/data2vec-audio-base-960h,0.0
+distil-whisper/distil-large-v3-ggml,"average. thus, you can expect significant performance gains by switching to this "
+OthmaneJ/distil-wav2vec2,librispeech-test-clean |wer librispeech-test-other|speed on cpu|speed on gpu| 
+facebook/data2vec-audio-base-960h,""", wer(result[""text""], result[""transcription""]))"
 facebook/wav2vec2-large-robust-ft-libri-960h,0.0
-speechbrain/asr-crdnn-rnnlm-librispeech,0.0
+speechbrain/asr-crdnn-rnnlm-librispeech,| gpus |
 speechbrain/asr-transformer-aishell,0.0
-speechbrain/asr-wav2vec2-commonvoice-en,0.0
+speechbrain/asr-wav2vec2-commonvoice-en,| gpus |
 guillaumekln/faster-whisper-smallnvidia/parakeet-tdt_ctc-1.1b,0.0
-jonatasgrosman/wav2vec2-xls-r-1b-english,0.0
-bookbot/wav2vec2-ljspeech-gruut,0.0
+jonatasgrosman/wav2vec2-xls-r-1b-english,(+lm)
+bookbot/wav2vec2-ljspeech-gruut,  |  cer   |
 guillaumekln/faster-whisper-base,0.0
-rsonavane/distil-whisper-large-v2-8-ls,0.0
+rsonavane/distil-whisper-large-v2-8-ls,on the 
 Systran/faster-whisper-medium,0.0
-facebook/s2t-large-librispeech-asr,0.0
-facebook/s2t-medium-librispeech-asr,0.0
-facebook/wav2vec2-conformer-rope-large-960h-ft,0.0
-speechbrain/asr-wav2vec2-librispeech,0.0
+facebook/s2t-large-librispeech-asr,""", wer(predictions=result[""transcription""], references=result[""text""]))"
+facebook/s2t-medium-librispeech-asr,""", wer.compute(predictions=result[""transcription""], references=result[""text""]))"
+facebook/wav2vec2-conformer-rope-large-960h-ft,""", wer(result[""text""], result[""transcription""]))"
+speechbrain/asr-wav2vec2-librispeech,| test other
 nvidia/stt_en_fastconformer_ctc_large,0.0
 NbAiLab/nb-whisper-large-beta,0.0
 NbAiLabBeta/nb-whisper-large,0.0
 Systran/faster-distil-whisper-large-v2,0.0
-facebook/wav2vec2-large-960h-lv60,0.0
-speechbrain/asr-transformer-transformerlm-librispeech,0.0
+facebook/wav2vec2-large-960h-lv60,""", wer(result[""text""], result[""transcription""]))"
+speechbrain/asr-transformer-transformerlm-librispeech,| test other
 speechbrain/asr-wav2vec2-transformer-aishell,0.0
-facebook/data2vec-audio-large-960h,0.0
+facebook/data2vec-audio-large-960h,""", wer(result[""text""], result[""transcription""]))"
 nvidia/stt_en_conformer_transducer_large,0.0
 facebook/mms-1b-l1107,0.0
 nvidia/stt_en_fastconformer_hybrid_large_streaming_multi,0.0
-nvidia/parakeet-ctc-0.6b,0.0
+nvidia/parakeet-ctc-0.6b,numbers without external lm. more details on evaluation can be found at [huggingface asr leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)
 ivrit-ai/whisper-v2-d3-e3,0.0
 facebook/s2t-wav2vec2-large-en-ar,0.0
 facebook/wav2vec2-xls-r-300m-en-to-15,0.0
 patrickvonplaten/hubert-xlarge-ls960-ft-4-gram,0.0
 mort666/faster-whisper-large-v2-th,0.0
-speechbrain/asr-conformer-transformerlm-librispeech,0.0
+speechbrain/asr-conformer-transformerlm-librispeech,| test other
 Systran/faster-whisper-base,0.0
 Systran/faster-whisper-small,0.0
 spow12/Visual-novel-transcriptor,0.0
-facebook/wav2vec2-base-100h,0.0
+facebook/wav2vec2-base-100h,""", wer(result[""text""], result[""transcription""]))"
 facebook/wav2vec2-xls-r-300m-21-to-en,0.0
 yongjian/wav2vec2-large-a,0.0
-Jzuluaga/wav2vec2-xls-r-300m-en-atc-uwb-atcc-and-atcosim,0.1687
+Jzuluaga/wav2vec2-xls-r-300m-en-atc-uwb-atcc-and-atcosim, 0.1687
 optimum/whisper-tiny.en,0.0
 58AILab/wenet_efficient_conformer_aishell_v2,0.0
 guillaumekln/faster-whisper-tiny,0.0
 flyingleafe/faster-whisper-large-v3,0.0
-nvidia/parakeet-rnnt-0.6b,0.0
+nvidia/parakeet-rnnt-0.6b,numbers without external lm. more details on evaluation can be found at [huggingface asr leaderboard](https://huggingface.co/spaces/hf-audio/open_asr_leaderboard)
 mesolitica/malaysian-whisper-medium,0.0
-distil-whisper/distil-large-v3-ct2,0.0
-Crystalcareai/Whisper-Medicalv1,0.0
+distil-whisper/distil-large-v3-ct2,"average. thus, you can expect significant performance gains by switching to this "
+Crystalcareai/Whisper-Medicalv1,of large-v3 on long-form audio using both the sequential 
 patrickvonplaten/wav2vec2-large-960h-lv60-self-4-gram,0.0
-facebook/wav2vec2-conformer-rel-pos-large-960h-ft,0.0
+facebook/wav2vec2-conformer-rel-pos-large-960h-ft,""", wer(result[""text""], result[""transcription""]))"
 nvidia/stt_be_conformer_transducer_large,0.0
 vumichien/AV-HuBERT,0.0
 58AILab/wenet_efficient_conformer_aishell_v1,0.0
 danielus/ggml-whisper-models,0.0
 nvidia/stt_en_fastconformer_transducer_large,0.0
-hf-audio/wav2vec2-bert-CV16-en,0.1455
+hf-audio/wav2vec2-bert-CV16-en, 0.1455
 NbAiLab/nb-whisper-medium,0.0
 MahmoudAshraf/mms-300m-1130-forced-aligner,0.0
 vonjack/whisper-large-v3-gguf,0.0
 MohamedRashad/Arabic-Whisper-CodeSwitching-Edition,0.0
-asapp/sew-d-base-plus-400k-ft-ls100h,0.0
-boris/xlsr-en-punctuation,0.0
+asapp/sew-d-base-plus-400k-ft-ls100h,""", wer(result[""text""], result[""transcription""]))"
+boris/xlsr-en-punctuation," {:2f}"".format(100 * wer.compute(predictions=result[""pred_strings""], references=result[""sentence""])))"
 espnet/Shinji_Watanabe_open_li52_asr_train_asr_raw_bpe7000_valid.acc.ave,0.0
 facebook/s2t-medium-mustc-multilingual-st,0.0
 facebook/s2t-small-covost2-en-fa-st,0.0
-Jzuluaga/wav2vec2-xls-r-300m-en-atc-atcosim,0.0736
+Jzuluaga/wav2vec2-xls-r-300m-en-atc-atcosim, 0.0736
