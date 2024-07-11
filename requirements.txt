@@ -8,4 +8,4 @@ transformers
 datasets
 torch
 torchaudio
-pyctcdecodeo
+pyctcdecode
