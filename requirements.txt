@@ -5,7 +5,12 @@ bs4
 requests
 html5lib
 transformers
-datasets
+datasets[audio]
 torch
 torchaudio
 pyctcdecode
+accelerate
+evaluate
+jiwer
+tensorboard
+gradio
