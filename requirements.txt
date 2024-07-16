@@ -4,12 +4,12 @@ matplotlib
 bs4
 requests
 html5lib
+accelerate==0.15.0
 transformers==4.28.1
 datasets[audio]
 torch
 torchaudio
 pyctcdecode
-accelerate==0.15.0
 evaluate
 jiwer
 tensorboard
